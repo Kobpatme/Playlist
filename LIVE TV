@@ -1,0 +1,548 @@
+#EXTM3U vod_library="https://docs.google.com/uc?export=download&id=1ygGHLuCGzS5mzAvoRukMcMxBF_5ciHd1,https://docs.google.com/uc?export=download&id=1Duu3tDZF9hQ8o1o5VNUgeUYGXirfqQ_j"
+
+
+===================================================================================================================================
+
+#EXTINF:-1 type="Live" tvg-logo="https://www.i-pic.info/i/Bplh654240.png" group-title="หนังภาพยนตร์",SUN
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
+
+#EXTINF:-1 type="Live" tvg-logo="https://www.i-pic.info/i/CWns654241.png" group-title="หนังภาพยนตร์",SAMURAI
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
+
+#EXTINF:-1 type="Live" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="หนังภาพยนตร์",TRUE FILM ASIA
+https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8
+
+#EXTINF:-1 type="Live" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="หนังภาพยนตร์",TRUE MOVIE HITS
+https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
+
+#EXTINF:-1 type="Live" tvg-logo="https://www.i-pic.info/i/Ecy3654246.png" group-title="หนังภาพยนตร์",FW MOV
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/
+https://www.inwiptv.com/player_demo.php?channel=95262
+
+#EXTINF:-1 type="Live" tvg-logo="https://www.i-pic.info/i/soJS654247.png" group-title="หนังภาพยนตร์",FW SOV
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/
+https://www.inwiptv.com/player_demo.php?channel=94898
+
+
+=======================================================================================================================================
+
+
+#EXTINF:-1 group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/Valentines2024_IconTV.png" 
+
+#EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="CH_Digital",NBT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
+
+#EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="CH_Digital",THAI PBS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs3/index.m3u8
+
+#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="CH_Digital",ALTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ALTV3/index.m3u8
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="CH_Digital",TV5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="CH_Digital",T Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
+https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="CH_Digital",TPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV/index.m3u8
+https://livestream.parliament.go.th/lives/playlist.m3u8
+#EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN 16" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="CH_Digital",TNN 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn3/index.m3u8
+https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="CH_Digital",JKN 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
+https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="CH_Digital",Nation TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
+https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint TV" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="CH_Digital",Workpoint TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
+https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="CH_Digital",True 4U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
+https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="CH_Digital",GMM 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm3/index.m3u8
+https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ThaiChannel8.th" tvg-name="CH 8" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" group-title="CH_Digital",CH 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
+https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO 29" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="CH_Digital",MONO 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
+
+
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="MCOT HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="CH_Digital",MCOT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
+https://edge6a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="One31.th" tvg-name="ONE HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="CH_Digital",ONE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8
+https://edge6a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ThairathTV.th" tvg-name="Thairath TV" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="CH_Digital",Thairath TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
+https://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="CH_Digital",CH3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
+https://edge6a.v2h-cdn.com/harmonic-test/smil:3hd-abr-test.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="CH_Digital",Amarin TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
+https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="CH_Digital",CH7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
+https://edge6a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="CH_Digital",PPTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
+https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
+
+
+
+
+
+
+###  AISPLAY ####
+
+#EXTINF:-1 group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/Valentines2024_IconTV.png" 
+
+#EXTINF:-1 tvg-id="High Shopping" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0111.png" group-title="AISPLAYTV",High Shopping
+
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0052/HLS/V0052.m3u8
+#EXTINF:-1 tvg-id="True Shopping" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0111.png" group-title="AISPLAYTV",True Shopping
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0111/DASH/V0111.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/VTVNews.png" group-title="AISPLAYTV",VTVNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0026/DASH/V0026.mpd
+#EXTINF:-1 group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/Valentines2024_IconMusic.png" 
+#EXTINF:-1 tvg-id="thaichaiyo.tv" tvg-logo="https://www.zabzaa.com/tv/wp-content/uploads/2015/06/thaichaiyo.jpg" group-title="Music", THAI CHAIYO
+https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
+#EXTINF:-1 tvg-id="FiveChannel.th" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0096.png" group-title="AISPLAYTV",FIVE CHANNEL
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0096/DASH/V0096.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0059.png" group-title="AISPLAYTV", White Channel
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0059/DASH/V0059.mpd
+#EXTINF:-1 tvg-id="Newtm" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/NEW_TM.png" group-title="AISPLAYTV", NEW TM
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://vdo.plathong.net/flash7253/flash7253/playlist.m3u8
+#EXTINF:-1 tvg-id="KhongDeeThailand.th" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="AISPLAYTV",KhongDeeThailand
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0154/DASH/V0154.mpd
+#EXTINF:-1 tvg-id="Thainess.th" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="AISPLAYTV",Thainess
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0155/DASH/V0155.mpd
+#EXTINF:-1 tvg-id="SamRujLok.th" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="AISPLAYTV",SamRujLok
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0151/DASH/V0151.mpd
+#EXTINF:-1 tvg-id="MySCI.th" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="AISPLAYTV",MySCI
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0152/DASH/V0152.mpd
+#EXTINF:-1 tvg-id="KhongDeeThailand.th" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="AISPLAYTV",AnimalShow
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0153/DASH/V0153.mpd
+EXTINF:-1 tvg-id="Thainess.th" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="AISPLAYTV",Thainess
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0155/DASH/V0155.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0112.png" group-title="AISPLAYTV", TrueSelect 
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0112/DASH/V0112.mpd
+
+
+
+
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml"    
+
+
+#EXTINF:-1  tvg-name="3BB Sports One" tvg-id="3BB Sports One.th" group-logo="https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" group-title="AISPLAY PREMIUM", 3BB Sports One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d153e515a3ec465db2d812275d254d3f:808b83fd09be3a6c95fdd322379e068b
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0190/DASH/V0190.mpd
+
+#EXTINF:-1 tvg-name="beIN SPORTS 1" tvg-id="beIN SPORTS 1.th" group-logo="https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="AISPLAY PREMIUM", beIN SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+
+#EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-id="beIN SPORTS 2.th" group-logo="https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png" group-title="AISPLAY PREMIUM", beIN SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+
+#EXTINF:-1 tvg-name="beIN SPORTS 3" tvg-id="beIN SPORTS 3.th" group-logo="https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png" group-title="AISPLAY PREMIUM", beIN SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+
+#EXTINF:-1 tvg-name="beIN SPORTS 4" tvg-id="beIN SPORTS 4.th" group-logo="https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png" group-title="AISPLAY PREMIUM", beIN SPORTS 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
+
+#EXTINF:-1 tvg-name="beIN SPORTS 5" tvg-id="beIN SPORTS 5.th" group-logo="https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_5.png" group-title="AISPLAY PREMIUM", beIN SPORTS 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
+
+#EXTINF:-1 tvg-name="beIN SPORTS 6" tvg-id="beIN SPORTS 6.th" group-logo="https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_6.png" group-title="AISPLAY PREMIUM", beIN SPORTS 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
+
+#EXTINF:-1 tvg-name="beIN SPORTS 7" tvg-id="beIN SPORTS 7.th" group-logo="https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_7.png" group-title="AISPLAY PREMIUM", beIN SPORTS 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
+
+
+#EXTINF:-1 tvg-name="GOLF CHANNEL" tvg-id="GOLF CHANNEL.th" group-logo="https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//GolfChannelThailand.png" group-title="AISPLAY PREMIUM", GOLF CHANNEL
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0130/DASH/V0130.mpd
+
+
+#EXTINF:-1 tvg-name="Cartoonito" tvg-id="Cartoonito.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/Valentines2024_IconFamily.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png" group-title="ช่องเด็ก", Cartoonito
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6a1b556425b6932c6ffe80e7a828e57:bd8ea11b338954c1746f45bcf851c91e
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0113/DASH/V0113.mpd
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="Cartoon Network.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/Valentines2024_IconFamily.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="ช่องเด็ก", Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=752cdfe2fd238fcb0b98a8cb7e0ed584:1f0d3ac06263a52d9c826394c7f3b1d4
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/X171/DASH/X171.mpd
+
+#EXTINF:-1 tvg-name="Nick Jr." tvg-id="Nick Jr..th" group-logo="https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png" group-title="AISPLAY PREMIUM", Nick Jr.
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4852cf0a609a4f7f21bac4a4f7d5df5:a47711e6e3d68235cc942e4fb9c1c5f1
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0186/DASH/V0186.mpd
+
+
+#EXTINF:-1  tvg-name="Animal Planet" tvg-id="Animal Planet.th" group-logo="hhttps://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="AISPLAY PREMIUM", Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=445b1220aeb39feb55a95944aeeb65f4:52d98a1cd54f99d67e6512799504d235
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0182/DASH/V0182.mpd
+
+#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery.th" group-logo="hhttps://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="AISPLAY PREMIUM", Discovery
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e8393537881b2d8534238f3a916d5a4:2ae033b06e3fb8e3a26ad63fb74d0f2f
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0180/DASH/V0180.mpd
+
+#EXTINF:-1 tvg-name="Discovery Asia" tvg-id="Discovery Asia.th" group-logo="hhttps://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="AISPLAY PREMIUM", Discovery Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7d2b3a2ee44d2d9e676f5ff1c09cc57:17d93e04b88ec01e67e3f07f68947164
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0181/DASH/V0181.mpd
+
+
+
+#EXTINF:-1 tvg-name="CNN" tvg-id="CNN.th" group-logo="https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png" group-title="AISPLAY PREMIUM", CNN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5e2d32a4acc84af9770faba8a7ff1fa:7b0b64c86be296d15ebdf3a3a1af0560
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0107/DASH/V0107.mpd
+
+#EXTINF:-1 tvg-name="BBC News" tvg-id="BBC News.th" group-logo="https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/BBCNEWS.png" group-title="AISPLAY PREMIUM", BBC News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e7078457bda703b567e3fbfa46ffaac:116c7d0b1960bf398798a09a75ee155b
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0125/DASH/V0125.mpd
+
+
+#EXTINF:-1 tvg-name="3BB Asian" tvg-id="3BB Asian.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png" group-title="AISPLAY PREMIUM", 3BB Asian
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=379c40f0207c33f804d115d3ba77ee63:b20b45bea3d8bc7ad4961f813e79d0c1
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0191/DASH/V0191.mpd
+
+#EXTINF:-1 ch-number="106" tvg-name="Warner TV" tvg-id="Warner TV.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="AISPLAY PREMIUM", Warner TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00a6eeb6a8623e7f5dd0de890fc55f52:57349ce17aa9f5692ad2fb7d9cdb01c7
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/X105/DASH/X105.mpd
+
+#EXTINF:-1 ch-number="109" tvg-name="MONO29 Plus" tvg-id="MONO29 Plus.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="AISPLAY PREMIUM", MONO29 Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2698a310f625b96ac6c46d5a7c8e779b:35b285a0ace10e4f4cbb7aab67c94fba
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0192/DASH/V0192.mpd
+
+#EXTINF:-1 ch-number="116" tvg-name="HBO" tvg-id="HBO.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/MoviesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="AISPLAY PREMIUM", HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd
+
+#EXTINF:-1 ch-number="117" tvg-name="HBO Signature" tvg-id="HBO Signature.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/MoviesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="AISPLAY PREMIUM", HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97c1c27765dae9b95ee04ea6e8f50c34:7db57b354d4d9cdb22e256c2a7500956
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0117/DASH/V0117.mpd
+
+#EXTINF:-1 ch-number="118" tvg-name="HBO Hits" tvg-id="HBO Hits.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/MoviesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png" group-title="AISPLAY PREMIUM", HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56c2717c2c6431c75ac1fbf64a997cb6:d4544ffd929b2da1f6101705e74facee
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0116/DASH/V0116.mpd
+
+#EXTINF:-1 ch-number="119" tvg-name="HBO Family" tvg-id="HBO Family.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/MoviesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="AISPLAY PREMIUM", HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96af42ae402ccc9b3f92a8e99ec8f5aa:6a0991ae3f06f76a010afa5515f67ac6
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0115/DASH/V0115.mpd
+
+#EXTINF:-1 ch-number="120" tvg-name="CINEMAX" tvg-id="CINEMAX.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/MoviesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="AISPLAY PREMIUM", CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b541612bcb4598f60c4efc1733b5d8c9:7e6d2819c0912a204fd5478f8a60d1b5
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd
+
+#EXTINF:-1 ch-number="156" tvg-name="Mangkorn" tvg-id="Mangkorn.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="AISPLAY PREMIUM", Mangkorn
+
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0159/DASH/V0159.mpd
+
+
+#EXTINF:-1 ch-number="200" tvg-name="ROCK ENTERTAINMENT" tvg-id="ROCK ENTERTAINMENT.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="AISPLAY PREMIUM", ROCK ENTERTAINMENT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3837d26526efca2fa1f18823bd073c0f:ab4d56168a618b2413beb137d70ac453
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0165/DASH/V0165.mpd
+
+#EXTINF:-1 ch-number="201" tvg-name="ROCK Action" tvg-id="ROCK Action.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="AISPLAY PREMIUM", ROCK Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a3f4f0914988cc2f6be128c28893fff:db158f0d2bb85efd8f06e38d483de19c
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0166/DASH/V0166.mpd
+
+#EXTINF:-1 tvg-name="MONO29 Music Station" tvg-id="MONO29 Music Station.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png" group-title="AISPLAY PREMIUM", MONO29 Music Station
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2355ee65664e0b7fc02e7d389e1d2658:a935ccb1065ffe214823aae414f8b257
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0193/DASH/V0193.mpd
+
+#EXTINF:-1 tvg-name="Food Network" tvg-id="Food Network.th" group-logo="https://images.toffeelive.com/images/ugc/category/17/icon/category_icon_220616134219.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png" group-title="AISPLAY PREMIUM", Food Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7372347ddf65ab1594ee35362240dafa:4d78d33c15d1098214b3d3cd3bb7c2a4
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0162/DASH/V0162.mpd
+
+#EXTINF:-1 tvg-name="Asian Food Network" tvg-id="Asian Food Network.th" group-logo="https://images.toffeelive.com/images/ugc/category/17/icon/category_icon_220616134219.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="AISPLAY PREMIUM", Asian Food Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41c6d6041786bf8142636da6646af821:943bc1ff87a15e9cf19613713bed6509
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0161/DASH/V0161.mpd
+
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png" group-title="AISPLAY PREMIUM", TLC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adfe8e6aa801559a4e129992c0f20403:6c7aefc27c4bea0fd10c282061c138d8
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0183/DASH/V0183.mpd
+
+#EXTINF:-1 tvg-name="Global Trekker" tvg-id="Global Trekker.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/GlobalTrekker.png" group-title="AISPLAY PREMIUM", Global Trekker
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c67bc71fc46a9af8e839ac84794f570:5375508840e044432a708c3fba038c05
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0023/DASH/V0023.mpd
+
+
+#EXTINF:-1 tvg-name="TechStorm" tvg-id="TechStorm.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TechStorm_new.png" group-title="AISPLAY PREMIUM", TechStorm
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dca989ef784fa310300fa21c893dbcf3:fb9068e0516852ee0ec251605322e549
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0168/DASH/V0168.mpd
+
+
+
+
+
+
+
+
+#https://distractible-smile.000webhostapp.com/channel/play/3bbsport1.m3u8
+
+#EXTINF:-1 group-logo="https://3bbtv.co.th/wp-content/uploads/2020/08/Logo-3BBTV-500x500pix.png" 
+#EXTINF:-1 tvg-id="3BBSportone.th" tvg-name="3BB Sport one" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" group-title="3BBGIGATV", 3BBSportOne
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
+
+#EXTINF:-1 group-logo="https://3bbtv.co.th/wp-content/uploads/2020/08/Logo-3BBTV-500x500pix.png" 
+#EXTINF:-0 group-title="3BBGIGATV" tvg-id="HBO.th" tvg-logo="https://hometv.pw/logo/movies/hbo.png", HBO TH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+
+https://wacthstream.com/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTI6MDY6NDggUE0maGFzaF92YWx1ZT1EZ1ZKVUZ5WWZoc1hQY2dJd0NOTnBRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjg0MTQ=|Referer=https://wacth.tv
+
+
+#EXTINF:-1 group-logo="https://3bbtv.co.th/wp-content/uploads/2020/08/Logo-3BBTV-500x500pix.png" 
+#EXTINF:-0 group-title="3BBGIGATV" tvg-id="HBO Signature.th" tvg-logo="https://hometv.pw/logo/movies/hbo_sign.png", HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://distractible-smile.000webhostapp.com/keyid/hbosig.html
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+
+
+
+
+
+#EXTINF:-1 group-logo="https://3bbtv.co.th/wp-content/uploads/2020/08/Logo-3BBTV-500x500pix.png" 
+#EXTINF:-0 group-title="3BBGIGATV" tvg-id="HBO Hits.th" tvg-logo="https://hometv.pw/logo/movies/hbo_hits.png", HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+
+
+
+
+
+#EXTINF:-1 group-logo="https://3bbtv.co.th/wp-content/uploads/2020/08/Logo-3BBTV-500x500pix.png" 
+#EXTINF:-0 group-title="3BBGIGATV" tvg-id="HBO Family.th" tvg-logo="https://hometv.pw/logo/movies/hbo_family.png",HBO FAMILY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+
+#EXTINF:-1 group-logo="https://3bbtv.co.th/wp-content/uploads/2020/08/Logo-3BBTV-500x500pix.png" 
+#EXTINF:-1 group-title="3BBGIGATV" tvg-id="CINEMAX.th" tvg-logo="https://hometv.pw/logo/movies/cinemax.png",CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://distractible-smile.000webhostapp.com/keyid/cinemax.html
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+
+
+
+#### CINEMA CHANNEL###
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHudrDf64MmBFzjuayCWQb3nkMCZ2js_L7A&amp;usqp=CAU" 
+
+
+
+#EXTINF:-0 group-title="หนังภาพยนตร์" tvg-id="Mix Major.th"tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0091.png", Major Channel
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0091/DASH/V0091.mpd
+#EXTINF:-0 group-title="หนังภาพยนตร์" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0090.png", MVTV Family
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0090/DASH/V0090.mpd
+#EXTINF:-0 group-title="หนังภาพยนตร์" tvg-id="" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png", Channel 8 THAILAND
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
+
+
+#EXTINF:-1 group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/Valentines2024_IconSeries.png" 
+#EXTINF:-1 tvg-chno="29" tvg-id="Mono29.th" tvg-name="MONO 29" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="หนังภาพยนตร์", MONO 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge6a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
+
+
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/scl/fi/kkwj87nxdhgjk9wxgctg2/20231228_203559.png?rlkey=4tmmkdsua02o0wci6sxamzhkr&amp;dl=0" group-title="หนังภาพยนตร์", NK Movie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#http://sv1.afdc.live:9898/live/nktv.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/txb26h22wr1552lg13de2/fw1.jpg?rlkey=57ujsednmo1srf22oeatlaxv5&amp;dl=0", FWMovie 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://6395online.com:8080/live/danai/6487/163.m3u8
+
+#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/txb26h22wr1552lg13de2/fw1.jpg?rlkey=57ujsednmo1srf22oeatlaxv5&amp;dl=0", FWMovie 1
+http://6395online.com:8080/live/danai/6487/168.m3u8
+
+
+#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/j1de3h1ow4qfqum2n48q0/fw3.jpg?rlkey=x6bqxnadts8o6oekcht5ww0hu&amp;dl=0", FWMovie 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://6395online.com:8080/live/antonio/6487/168.m3u8
+#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/j1de3h1ow4qfqum2n48q0/fw3.jpg?rlkey=x6bqxnadts8o6oekcht5ww0hu&amp;dl=0", FWMovie 2
+http://6395online.com:8080/live/antonio/6487/163.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="หนังภาพยนตร์",Cenemax
+http://ip168.homeip.net:8086/cinemax.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
+https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="BOO" ch-number="404" group-title="หนังภาพยนตร์" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg",BOO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2407/default.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+#EXTINF:-1 tvg-id="413" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="หนังภาพยนตร์",SHOWCASE MOVIES
+https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5054/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="หนังภาพยนตร์",HBO 
+http://ip168.homeip.net:8086/hbo.m3u8
+
+#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",CinemaWorld
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
+#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png",Celestial Classic Movies
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+
+#EXTINF:-1 tvg-id="MONO29 Plus.th" tvg-name="MonoPlus" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="3BBGIGATV", 3BB-MONO PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/440px-7flix_logo_2020.svg.png" group-title="หนังภาพยนตร์", 7Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/14iy6rp33oqdjp3/movieworld1.png?dl=0" group-title="หนังภาพยนตร์",MOVIES WORLD 1 (หนังฝรั่ง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/14iy6rp33oqdjp3/movieworld1.png?dl=0" group-title="หนังภาพยนตร์",MOVIES WORLD 1 (ซับไทย)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
+#EXTINF:-1 tvg-id="moviesworld2" tvg-name="MOVIESWORLD2" tvg-logo="https://dl.dropbox.com/s/nsw4nfi4o5b94ko/moviesworld2.jpg?dl=0" group-title="หนังภาพยนตร์",MOVIES WORLD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/ngewvm09401fdoo/moviesworld3.jpg?dl=0" group-title="หนังภาพยนตร์",MOVIES WORLD 3 (หนังจีน)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
+#EXTINF:-1 tvg-id="BoxFilm.th" tvg-name="BOX FILM" tvg-logo="https://dl.dropbox.com/scl/fi/q4gb7qgqw4alaz570zep3/ky2qmbxf.png?rlkey=ucy7f0837972ist013msn6327&amp;dl=0" group-title="หนังภาพยนตร์",BOX FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="หนังภาพยนตร์", Lotus_TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://61.19.242.134/feed/eI5rczhSQpWBcgOtqRLNWw/LC41/index.m3u8
+#EXTINF:-1 tvg-id="MOVIES WORLD 1" tvg-name="MOVIES WORLD 1" tvg-logo="https://i.postimg.cc/63hYNwt4/MOVIESWORLD1.jpg" group-title="หนังภาพยนตร์",MOVIES WORLD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0039.png" group-title="หนังภาพยนตร์",แอท ทีวี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0039/HLS/V0039.m3u8
+#EXTINF:-1 tvg-id="Mangorn" tvg-name="Mangorn" tvg-logo="https://www.dropbox.com/s/nkkosptjc8tz5cr/ky2rhir7.png?dl=1" group-title="หนังภาพยนตร์",MANGORN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/s/0ujh0g2xl868goh/ky2rgt4q.png?dl=1" group-title="หนังภาพยนตร์",Jomyut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
+#EXTINF:-0 tvg-id="TrueFilmHD1.th" tvg-name="TH - TR FILM HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png" group-title="หนังภาพยนตร์", TRUE FILM HD1
+
+
+
+#EXTINF:-1 tvg-id="CoolChannel.th" tvg-name="Cool Channel" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7c07f020-2515-11ee-ac34-39c66cab230f_webp_original.webp" group-title="หนังภาพยนตร์ ",Cool Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150",Thrill
+https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+
+
+
+
+
+
+
+
