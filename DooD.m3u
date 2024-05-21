@@ -13,6 +13,21 @@ https://streaming4.highwaytraffic.go.th/DMT/1ANOP_CSV03.stream/playlist.m3u8
 #EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",CCTV หน้าสนามบินดอนเมือง-02
 https://streaming4.highwaytraffic.go.th/DMT/1ANOP_CSV01.stream/playlist.m3u8
 
+#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",ด่านดินแดงก่อนเข้าส่วนต่อ (บน GANTRY)
+https://streaming4.highwaytraffic.go.th/DMT/1ANOP_CSV02.stream/playlist.m3u8
+
+#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",สน. ทุ่งสองห้อง
+https://streaming4.highwaytraffic.go.th/DMT/1DMOP_CSV02.stream/playlist.m3u8
+
+#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",เดลินิวส์
+https://streaming4.highwaytraffic.go.th/DMT/1DMOP-CSV01.stream/playlist.m3u8
+
+#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",ทางลงปากเกร็ด+แจ้งวัฒนะ (บน GANTRY)
+https://streaming4.highwaytraffic.go.th/DMT/1LKOP_CSV02.stream/playlist.m3u8
+
+#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",ทางขึ้นแจ้งวัฒนะ
+https://streaming4.highwaytraffic.go.th/DMT/1LKOP_CSV01.stream/playlist.m3u8
+
 ===================================================================================================================================
 
 #EXTINF:-1 type="Live" tvg-logo="https://www.i-pic.info/i/Bplh654240.png" group-title="หนังภาพยนตร์",SUN
