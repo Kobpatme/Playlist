@@ -124,6 +124,12 @@ https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 
 
 
+====== AISPLAY PREMIUM ======
+
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml"    
+
+
 #EXTINF:-1  tvg-name="3BB Sports One" tvg-id="3BB Sports One.th" group-logo="https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" group-title="AISPLAY PREMIUM", 3BB Sports One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d153e515a3ec465db2d812275d254d3f:808b83fd09be3a6c95fdd322379e068b
@@ -173,6 +179,7 @@ https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin
 #KODIPROP:inputstream.adaptive.license_key=d4852cf0a609a4f7f21bac4a4f7d5df5:a47711e6e3d68235cc942e4fb9c1c5f1
 https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0186/DASH/V0186.mpd
 
+
 #EXTINF:-1  tvg-name="Animal Planet" tvg-id="Animal Planet.th" group-logo="hhttps://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="AISPLAY PREMIUM", Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=445b1220aeb39feb55a95944aeeb65f4:52d98a1cd54f99d67e6512799504d235
@@ -182,10 +189,14 @@ https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e8393537881b2d8534238f3a916d5a4:2ae033b06e3fb8e3a26ad63fb74d0f2f
 https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0180/DASH/V0180.mpd
+
 #EXTINF:-1 tvg-name="Discovery Asia" tvg-id="Discovery Asia.th" group-logo="hhttps://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="AISPLAY PREMIUM", Discovery Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7d2b3a2ee44d2d9e676f5ff1c09cc57:17d93e04b88ec01e67e3f07f68947164
 https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0181/DASH/V0181.mpd
+
+
+
 #EXTINF:-1 tvg-name="CNN" tvg-id="CNN.th" group-logo="https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png" group-title="AISPLAY PREMIUM", CNN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5e2d32a4acc84af9770faba8a7ff1fa:7b0b64c86be296d15ebdf3a3a1af0560
@@ -195,6 +206,8 @@ https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e7078457bda703b567e3fbfa46ffaac:116c7d0b1960bf398798a09a75ee155b
 https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0125/DASH/V0125.mpd
+
+
 #EXTINF:-1 tvg-name="3BB Asian" tvg-id="3BB Asian.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png" group-title="AISPLAY PREMIUM", 3BB Asian
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=379c40f0207c33f804d115d3ba77ee63:b20b45bea3d8bc7ad4961f813e79d0c1
@@ -203,7 +216,9 @@ https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin
 #EXTINF:-1 ch-number="106" tvg-name="Warner TV" tvg-id="Warner TV.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="AISPLAY PREMIUM", Warner TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00a6eeb6a8623e7f5dd0de890fc55f52:57349ce17aa9f5692ad2fb7d9cdb01c7
-https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/X105/DASH/X105.mpd#EXTINF:-1 ch-number="109" tvg-name="MONO29 Plus" tvg-id="MONO29 Plus.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="AISPLAY PREMIUM", MONO29 Plus
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/X105/DASH/X105.mpd
+
+#EXTINF:-1 ch-number="109" tvg-name="MONO29 Plus" tvg-id="MONO29 Plus.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="AISPLAY PREMIUM", MONO29 Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2698a310f625b96ac6c46d5a7c8e779b:35b285a0ace10e4f4cbb7aab67c94fba
 https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0192/DASH/V0192.mpd
@@ -278,11 +293,11 @@ https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dca989ef784fa310300fa21c893dbcf3:fb9068e0516852ee0ec251605322e549
 https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0168/DASH/V0168.mpd
+
 #EXTINF:-0 tvg-id="Paramount Network.th" tvg-name="Paramount Network" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png" group-title="AISPLAY PREMIUM",Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25bf32f14fa2141acb7d008c0c438bc8:e8b12304c39c113f97de330a27887b31
 https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0185/DASH/V0185.mpd
-
 
 #EXTINF:-0 tvg-id="Mono29Musicstation." tvg-name="Mono29Musicstation" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png" group-title="AISPLAY PREMIUM", Mono29Musicstation
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -293,11 +308,13 @@ https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e7078457bda703b567e3fbfa46ffaac:116c7d0b1960bf398798a09a75ee155b
 https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0125/DASH/V0125.mpd
+
 #EXTINF:1 tvg-id="HLN.th " tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0107.png" group-title="AISPLAY PREMIUM", HLN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5e2d32a4acc84af9770faba8a7ff1fa:7b0b64c86be296d15ebdf3a3a1af0560
 #https://v7.thetvapp.to/hls/HLN.m3u8?token=MT1KtD-qFTPvr9uF3ue_wA&amp;expires=1712931986
 #https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0107/DASH/V0107.mpd
+
 
 ===========================================================================================================================
 
