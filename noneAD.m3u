@@ -2,21 +2,6 @@
 
 ================ CCTV ================
 
-#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",หน้าหมู่บ้านรัตนโกสินทร์ 200
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36 
-http://user7:rangsit1025@118.174.138.142:1025/stw-cgi/video.cgi?msubmenu=stream&action=view&Profile=1
-
-#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",ถนนหน้าเทศบาล
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-http://user7:rangsit1027@118.174.138.142:1027/stw-cgi/video.cgi?msubmenu=stream&action=view&Profile=1
-
-#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",สะพานแดง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-http://user7:rangsit1030@118.174.138.142:1030/stw-cgi/video.cgi?msubmenu=stream&action=view&Profile=1
-
-#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",โดมดาดฟ้าเทศบาลนครรังสิต
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://sn.rtsp.me/pGOJ-9Jevy-Gg6P3tZeHIw/1716288578/hls/3DKeRaeR.m3u8?ip=119.63.79.238
 
 #EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",แขวงบางแค เขตบางแค บนสะพาน
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
