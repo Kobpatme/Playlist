@@ -1,6 +1,17 @@
 #EXTM3U vod_library="https://raw.githubusercontent.com/Kobpatme/Playlist/main/qwe-MoV-rtyu.m3u,https://raw.githubusercontent.com/Kobpatme/Playlist/main/lkjh-Se-gfd.m3u"
 
+================ CCTV ================
+#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",CCTV หน้าเบญจจินดา
+https://streaming4.highwaytraffic.go.th/DMT/1BKOP_CSV02.stream/playlist.m3u8
 
+#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",CCTV หลักสี่
+https://streaming4.highwaytraffic.go.th/DMT/1CWOP_CSV02.stream/playlist.m3u8
+
+#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",CCTV หน้าสนามบินดอนเมือง-01
+https://streaming4.highwaytraffic.go.th/DMT/1ANOP_CSV03.stream/playlist.m3u8
+
+#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",CCTV หน้าสนามบินดอนเมือง-02
+https://streaming4.highwaytraffic.go.th/DMT/1ANOP_CSV01.stream/playlist.m3u8
 ===================================================================================================================================
 
 #EXTINF:-1 type="Live" tvg-logo="https://www.i-pic.info/i/Bplh654240.png" group-title="หนังภาพยนตร์",SUN
