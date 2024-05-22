@@ -2,6 +2,34 @@
 
 ================ CCTV ================
 
+#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",ก่อนทางลงงามวงศ์วาน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streaming4.highwaytraffic.go.th/DMT/1DDOP_CSV01.stream/playlist.m3u8
+
+#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",ก่อนทางลงบางเขน (บน GANTRY)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streaming4.highwaytraffic.go.th/DMT/1DDOP_CSV03.stream/playlist.m3u8
+
+#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",ฝ่ายช่างการบินไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streaming4.highwaytraffic.go.th/DMT/1SSOP_CSV02.stream/playlist.m3u8
+
+#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",ทางขึ้นสุทธิสาร
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streaming4.highwaytraffic.go.th/DMT/1BKOP_CSV01.stream/playlist.m3u8
+
+#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",ทางลงลาดพร้าว
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streaming4.highwaytraffic.go.th/DMT/1BKOP_CSV05.stream/playlist.m3u8
+
+#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",DMT-001
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streaming4.highwaytraffic.go.th/DMT/1ANOP_CSV01.stream/playlist.m3u8
+
+#EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",ด่าน ลำลูกกา
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streaming4.highwaytraffic.go.th/DMT/1ANOP_CSV04.stream/playlist.m3u8
+
 #EXTINF:-1 type="Live" tvg-logo="https://t3.ftcdn.net/jpg/04/35/31/12/360_F_435311264_msU8nZFxtuGJ8xH5hAOtS0G0GmYCEDor.jpg" group-title="CCTV",โดมดาดฟ้าเทศบาลนครรังสิต
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://sn.rtsp.me/pGOJ-9Jevy-Gg6P3tZeHIw/1716288578/hls/3DKeRaeR.m3u8?ip=119.63.79.238
