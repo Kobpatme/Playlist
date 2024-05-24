@@ -1,4 +1,5 @@
 #EXTM3U vod_library="https://raw.githubusercontent.com/Kobpatme/Playlist/main/qwe-MoV-rtyu.m3u,https://raw.githubusercontent.com/Kobpatme/Playlist/main/lkjh-Se-gfd.m3u"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ================ CCTV ================
 
