@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
 
@@ -100,54 +101,71 @@ https://playermhd.p2phls.xyz/8507fa95-deba-4e09-9517-398da8cc8154/_
 https://playermhd.p2phls.xyz/b27e0405-658c-4f4f-92fd-82dc75c19364/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2023/10/A-Deadly-Invitation-2023.webp?x76593",A Deadly Invitation (2023) คำเชิญจากฆาตกร
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://playermhd.p2phls.xyz/ec5feb6f-7ee4-45ab-8c62-b8799cf89406/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2023/08/Killer-Book-Club-2023.webp?x76593",Killer Book Club (2023) ชมรมหนังสือฆาตกร
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://playermhd.p2phls.xyz/cb267533-1794-4b41-8bf9-f887cb69032b/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2022/12/Scrooge-A-Christmas-Carol-2022.jpg.webp",Scrooge-A Christmas Carol (2022)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://playermhd.p2phls.xyz/772179a4-045e-4450-9936-1419f16ab6bd/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2022/09/Lou-2022.jpg.webp",Lou (2022) แกะรอยในความมืด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://playermhd.p2phls.xyz/c236a136-093c-41fe-80c9-a22cfdc30216/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2022/09/I-Came-By-2022.jpg.webp",I Came By (2022) แวะมาในเงามืด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://playermhd.p2phls.xyz/a8e7a338-ce79-4be9-a515-1bc1aa5b937c/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2022/08/Inside-the-Mind-of-a-Cat-2022.jpg.webp",Inside the Mind of a Cat (2022)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://playermhd.p2phls.xyz/794b26e2-1a3b-4561-860c-67dbe3c6de81/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2022/03/NETFLIX-Moonlight-Shadow-2021.jpg.webp",Moonlight Shadow (2021) ปาฏิหาริย์รักใต้เงาจันทร์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://playermhd.p2phls.xyz/e992292a-9b94-4ffd-8806-291198e5e16e/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2021/07/Pets-United-2020.jpg.webp",Pets United (2020) เพ็ทส์ ยูไนเต็ด: ขนปุยรวมพลัง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://playermhd.p2phls.xyz/7eb709b3-ce95-49bd-8f6b-bf5442aa3876/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2021/06/Latte-the-Magic-Waterstone-2019.jpg.webp",Latte & the Magic Waterstone (2019) ลาเต้ผจญภัยกับศิลาแห่งสายน้ำ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://playermhd.p2phls.xyz/a88351dc-a009-4ec8-bd15-4c4df9e285d5/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2021/06/Tune-in-for-Love-2019.jpg.webp",Tune in for Love (2019) คลื่นรักสื่อใจ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://playermhd.p2phls.xyz/78bbaff3-a8dd-4726-bcfc-3d328d338946/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2021/06/The-Maid-2020.jpg.webp",The Maid (2020) สาวลับใช้
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://playermhd.p2phls.xyz/6968b5d0-6c1a-4130-8ef4-1434b8cae985/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.doomovie-free.com/wp-content/uploads/2022/06/pj6UQPrtmC0snzPeU1HUhGWTgz6.jpg",The Ice Road (2021) 30 ชั่วโมงระทึกท้าทะเลเยือกแข็ง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://play.kakjeawplay.xyz/a2278391-c47e-44b8-bd19-7c6e52f52d0e/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.doomovie-free.com/wp-content/uploads/2022/04/bfzELw7iluKsxURTK9TBipDuN3E.jpg",The Little Things (2021)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://play.kakjeawplay.xyz/72b7d3d3-9dd6-41ae-a04a-2f763e0eaca4/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.doomovie-free.com/wp-content/uploads/2022/04/a022aae40963e56872c8610d7a77f205.jpg",Innocence (Gyul-Baek) (2020)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://play.kakjeawplay.xyz/71c2fccc-b52d-4160-8db8-4d9221dab595/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.doomovie-free.com/wp-content/uploads/2024/01/36pYugctLa70NmwMEgXTR1G31Kq.jpg",The Bricklayer (2023) เดอะ บลิคเลเยอร์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://play.kakjeawplay.xyz/399bd253-46bf-41ed-98cb-2b33f870c447/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.doomovie-free.com/wp-content/uploads/2023/05/Paradise-City-2022.jpg",Paradise City (2022) เมืองสวรรค์ คนอึดล่าโหด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://play.kakjeawplay.xyz/fdceb1b4-8d98-4e08-801c-c2ed88c1727c/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.doomovie-free.com/wp-content/uploads/2022/04/qWy0BXrnMf5ni5DH4y3YqKKB7Tu.jpg",The Adam Project (2022) ย้อนเวลาหาอดัม
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://play.kakjeawplay.xyz/efb4aed5-aa76-4f87-8b00-784891fe2f99/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.doomovie-free.com/wp-content/uploads/2022/04/8by9txf9XZqve8nVEfRw8yc6xQt.jpg",Detective Dee And The Red Eye (2021) ตี๋เหรินเจี๋ย นักสืบจอมเจ้าเล่ห์
