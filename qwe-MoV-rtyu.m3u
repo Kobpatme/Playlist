@@ -260,7 +260,8 @@ https://playermhd.p2phls.xyz/27c663b3-1d11-4189-beba-0d5116b50cf3/_
 https://playermhd.p2phls.xyz/7a2392b4-6490-477f-8d14-ff4ab98a7cbe/_
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2024/03/My-Name-Is-Loh-Kiwan-2024-e1709308170123.webp?x76593",My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน
-https://playermhd.p2phls.xyz/d5161ad2-20ac-469c-ada8-f2fdecb083b6/_
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streamy.idoomovies.com/movies/65ee99457e20020de53c1fa6/master.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3biswIjw14uDVil12nMOxcTAfmH.jpg",The Three Musketeers Milady (2023) สามทหารเสือ มิลาดี้ สตรีสีเลือด
 https://playermhd.p2phls.xyz/c3c2b1a2-ee2f-4c9b-b5b7-ad9bd0b7931e/_
