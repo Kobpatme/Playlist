@@ -5,6 +5,13 @@
 
 
 
+#EXTINF:-1 type="movie" tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/07/Resemblance-2023.jpg",Resemblance (2023) ปรากฏการณ์ (18+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streamhls.com/view/969d524b-a700-5233-a659-5b71cb1de2ad.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/05/Tid-Noii-2023.jpg",Tid-Noii (2023) ทิดน้อย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streamhls.com/view/4aacdf68-63c8-5499-8638-216e9c65b843.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Atlas-2024-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-1-187x269.jpg",Atlas (2024) ล่าข้ามจักรวาล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
