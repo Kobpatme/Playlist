@@ -3,7 +3,21 @@
 
 ======== All Movies ======
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/h27WHO2czaY5twDmV3Wfx5IdqoE.jpg",Land of Bad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streamy.idoomovies.com/movies/65dd55d86f880d012e664bf7/master.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/11/Locked-In-2023.jpg",Locked In (2023) ต้องขัง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streamhls.com/view/c18e1005-8672-5dc0-877b-1e3f9077e7e0.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/07/Bird-Box-Barcelona2023.jpg",BIRD BOX BARCELONA (2023) มอง อย่าให้เห็น (บาร์เซโลนา)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streamhls.com/view/f2f85527-a2e6-5d7c-96ee-6b6a332b79bd.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/04/AKA-2023.jpg",AKA (2023) เจ้าหน้าที่เงา
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streamhls.com/view/7af11132-a7f7-594d-bf0b-9d2f3e6afb15.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/07/Resemblance-2023.jpg",Resemblance (2023) ปรากฏการณ์ (18+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
