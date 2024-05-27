@@ -521,8 +521,9 @@ https://streamhls.com/view/f6088039-34d6-5d5b-ad9e-f7d7b6708f0f.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/06/Extraction-22023.jpg" ,EXTRACTION 2 คนระห่ำภารกิจเดือด 2
 https://streamhls.com/view/960ebb74-19ce-55ac-bce9-ed2bd64cf74b.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdDeVTP3GVtRhp9Dl1puBIXPApzSKCcJNHNw&s" ,Road House คนเดือดบวกเมืองเถื่อน 
-https://sv1.lnwplayer.com/hls/f01d6846-bc1d-40f3-aa1e-82a01beb6d44/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/03/Road-House.png" ,Road House คนเดือดบวกเมืองเถื่อน 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streamhls.com/view/c979c61d-45f5-508d-b349-898ce78d6ca1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Coffin-Mountain-Ancient-Tomb-2022-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%82%E0%B8%B8%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%93-187x269.jpg" ,ล่าขุมทรัพย์ สุสานโบราณ
 https://main.24playerhd.com/newplaylist/4e74e53f371b0fb7b1163833/4e74e53f371b0fb7b1163833.m3u8
