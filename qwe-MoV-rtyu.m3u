@@ -3,6 +3,11 @@
 
 ======== All Movies ======
 
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.ชอบหนัง.com/wp-content/uploads/2022/04/e97jh0ax1s8-11828-poster-265x375.jpg",Saaho (2019) เกมปล้นนรก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streamhls.com/view/329b5e70-8a7a-53f9-aece-4b962337dddf.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/h27WHO2czaY5twDmV3Wfx5IdqoE.jpg",Land of Bad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamy.idoomovies.com/movies/65dd55d86f880d012e664bf7/master.m3u8
