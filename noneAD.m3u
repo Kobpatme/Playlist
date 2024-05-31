@@ -117,8 +117,7 @@ https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
 
 #EXTINF:-1 type="Live" tvg-logo="https://www.i-pic.info/i/Ecy3654246.png" group-title="หนังภาพยนตร์",FW MOV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.inwiptv.com/
-https://www.inwiptv.com/player_demo.php?channel=95262
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDI0IDU6MDA6MTIgQU0maGFzaF92YWx1ZT1WLzJPdWp4QkQvb0NRRmwyWW5lTDdRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 type="Live" tvg-logo="https://www.i-pic.info/i/soJS654247.png" group-title="หนังภาพยนตร์",FW SOV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
