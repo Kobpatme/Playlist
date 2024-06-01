@@ -3,6 +3,45 @@
 
 ======== All Movies ======
 
+#EXTINF:-1 type="movie" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2024/03/5hnFFOWEchErNVr0wMLWFEob3q1-230x315-c-default.webp",Spaceman (2024) สเปซแมน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streamhls.com/view/0716acc4-16ee-5d8f-ba4d-9f8ba8ec49d5.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Cobweb-2023-%E0%B8%81%E0%B9%8A%E0%B8%AD%E0%B8%81-%E0%B8%81%E0%B9%8A%E0%B8%AD%E0%B8%81.-%E0%B9%80%E0%B8%84%E0%B8%B2%E0%B8%B0%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%9C%E0%B8%B5-187x269.jpg",Cobweb (2023) ก๊อก ก๊อก.. เคาะเรียกผี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://main.24playerhd.com/m3u8/6e52490b57a5a8dfafd94d93/6e52490b57a5a8dfafd94d93438.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Marita-2023-%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%95%E0%B9%89%E0%B8%B2-1-187x269.jpg",Marita (2023) มาริต้า มาริต้า
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://main.24playerhd.com/m3u8/dc5f4f6da26fce1e4b3f3bda/dc5f4f6da26fce1e4b3f3bda438.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%84%E0%B8%99%E0%B9%82%E0%B8%89%E0%B8%94-187x269.jpg",Song of the Bandits (2023) ลำนำคนโฉด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://main.24playerhd.com/m3u8/e08fb847ece7ada0b6f828ca/e08fb847ece7ada0b6f828ca438.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Article-370-2024-%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%B2-370-1-187x269.jpg",Article 370 (2024) มาตรา 370
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://main.24playerhd.com/m3u8/23490e0f98edc321af7e5e37/23490e0f98edc321af7e5e37438.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-%E0%B8%AD%E0%B8%B2%E0%B9%82%E0%B8%8B%E0%B8%81%E0%B8%B2-187x269.jpg",Star War Ahsoka (2023) อาโซกา
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://main.24playerhd.com/m3u8/fb8e09f4fa5704a4dfc634b9/fb8e09f4fa5704a4dfc634b9438.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/OverHaul-2023-%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%8B%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2-187x269.jpg",OverHaul (2023) ซิ่งแรงแซงตาย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://main.24playerhd.com/m3u8/a15b93e643bebfb8ba5bcb08/a15b93e643bebfb8ba5bcb08438.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/My-Name-Is-Vendetta-2022-%E0%B9%83%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99-187x269.jpg",My Name Is Vendetta (2022) ในนามของความแค้น
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://main.24playerhd.com/m3u8/8d673b330cfeb08bc5a63d02/8d673b330cfeb08bc5a63d02438.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/01/Miraculous-Ladybug-Cat-Noir-The-Movie-2023-%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%A5%E0%B8%94%E0%B8%B5%E0%B9%89%E0%B8%9A%E0%B8%B1%E0%B8%81-%E0%B9%81%E0%B8%A5%E0%B8%B0-%E0%B9%81%E0%B8%84%E0%B8%97%E0%B8%99%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B9%8C-300x450.jpg",Miraculous Ladybug & Cat Noir The Movie (2023) ฮีโร่มหัศจรรย์ เลดี้บัก และ แคทนัวร์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://main.24playerhd.com/m3u8/7cf3dde4f8bf58d141a71013/7cf3dde4f8bf58d141a71013438.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/01/Bed-Rest-2023-%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C%E0%B9%83%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B8%A2%E0%B8%87-300x450.jpg",Bed Rest (2023) บ้านอาถรรพ์ในวันที่ฉันติดเตียง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://main.24playerhd.com/m3u8/ddb33300f7d2c30d46a3e65e/ddb33300f7d2c30d46a3e65e438.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/05/Tarot-2024.jpg",TAROT (2024) ทาโร่ต์ ไพ่เรียกผี
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
