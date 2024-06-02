@@ -2,7 +2,15 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
-
+#EXTINF:-1 type="movie" tvg-logo="https://donungfree.com/wp-content/uploads/2024/03/Code-8.jpg",Code 8 (2019) ล่าคนโคตรพลัง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://xbsicyrliite3.players2u.com/hls6/22b081aaaa24f104142b6812d88e1728/22b081aaaa24f104142b6812d88e1728.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://donungfree.com/wp-content/uploads/2024/02/Code-8-Part-II-2024.jpg",Code 8 Part II (2024) ล่าคนโคตรพลัง 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streamhls.com/view/03beb140-09fe-5f2b-b1b0-a81f2011ef22.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2024/04/1A1Qpee9eZu1ThruhIphT7nZIMd-230x315-c-default.webp",The First Omen (2024) กำเนิดอาถรรพ์หมายเลข 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streamhls.com/view/163c7bc6-9678-5e2b-98db-90a7affe1f65.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2024/03/5hnFFOWEchErNVr0wMLWFEob3q1-230x315-c-default.webp",Spaceman (2024) สเปซแมน
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/0716acc4-16ee-5d8f-ba4d-9f8ba8ec49d5.m3u8
