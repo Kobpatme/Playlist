@@ -2,7 +2,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
-
+#EXTINF:-1 type="movie" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/05/The-Missing-Girls-2023-230x315-c-default.webp",The Missing Girls (2023) ค่ายเฮี้ยน โรงเรียนโหด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streamhls.com/view/a393b358-84ea-582d-81f8-a17df63291b8.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/02/True-Spirit-2023-230x315-c-default.webp",True Spirit (2023) ทรูสปิริต
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streamhls.com/view/96771349-b572-514f-9e99-d54ceca76510.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/05/The-Water-Flows-to-the-Sea-2023.jpg",THE WATER FLOWS TO THE SEA (2023) ฝนตกวันนั้น ผมแอบรักรุ่นพี่
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://hlsp2p.xyz/view/f99fe682-fdb7-5f34-a492-06539e4ef5e6.m3u8
