@@ -2,6 +2,28 @@
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2024/06/Under-Paris-2024-%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9-%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%AA-1.jpg",UNDER PARIS (2024) มฤตยู ใต้ปารีส
+https://main.24playerhd.com/newplaylist/e5fe95e458aebfd1b061e28e/e5fe95e458aebfd1b061e28e.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2024/06/How-to-Rob-a-Bank-2024-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%87%E0%B8%81%E0%B9%8C-1.jpg",HOW TO ROB A BANK (2024) คู่มือปล้นแบงก์
+https://main.24playerhd.com/m3u8/a186bf6f5c9ce62e0fe280f6/a186bf6f5c9ce62e0fe280f6438.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2024/05/Corlors-of-Evil-Red-2024-%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%94%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B5%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88.jpg",CORLORS OF EVIL RED (2024) แดงดั่งสีปีศาจ
+https://main.24playerhd.com/newplaylist/7b0d3952b4a830240c1a8c7f/7b0d3952b4a830240c1a8c7f.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2019/06/Constantine-%E0%B8%84%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%9C%E0%B8%B5.png",CONSTANTINE คนพิฆาตผี
+https://hot.24playerhd.com/ioshls/15499ab1e5efed5c1a3aba6de79a5cb3/15499ab1e5efed5c1a3aba6de79a5cb3.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2019/07/I-Frankenstein-2014-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0.png",I FRANKENSTEIN (2014) สงครามล้างพันธุ์อมตะ
+https://hot.24playerhd.com/ioshls/554a8c4418136a07ad9cc524666aacc0/554a8c4418136a07ad9cc524666aacc0.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/05/Top-Gun-Maverick-2022-%E0%B8%97%E0%B9%87%E0%B8%AD%E0%B8%9B%E0%B8%81%E0%B8%B1%E0%B8%99-%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%84.png",TOP GUN MAVERICK (2022) ท็อปกัน มาเวอริค
+https://hot.24playerhd.com/ioshls/2b219014f554ac0da4d90b6966804a60/2b219014f554ac0da4d90b6966804a60.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/11/Believer-2-2023.jpg",BELIEVER 2 (2023)
+https://main.24playerhd.com/m3u8/5b75b81830d58c47f08633f0/5b75b81830d58c47f08633f0438.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/05/The-Missing-Girls-2023-230x315-c-default.webp",The Missing Girls (2023) ค่ายเฮี้ยน โรงเรียนโหด
 https://streamhls.com/view/a393b358-84ea-582d-81f8-a17df63291b8.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/02/True-Spirit-2023-230x315-c-default.webp",True Spirit (2023) ทรูสปิริต
