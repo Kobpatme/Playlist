@@ -1,7 +1,12 @@
 #EXTM3U
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2015/09/Law-Abiding-Citizen-200x300.jpg",LAW ABIDING CITIZEN (2009) ขังฮีโร่ โค่นอำนาจ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://streamhls.com/view/57474da1-ee16-5aac-b946-73900ee705d9.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/Agak-Laen.jpg",AGAK LAEN (2024) บ้านสยองแสนสนุก
 https://streamhls.com/view/1a46ed1c-97a9-58d9-aaee-3d52dc5dfd9b.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/04/Book-Club2.jpg",BOOK CLUB: THE NEXT CHAPTER (2023) ก๊วนลับฉบับสาวแซ่บ ตะลุยอิตาลี
