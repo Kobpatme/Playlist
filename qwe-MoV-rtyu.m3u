@@ -3,6 +3,18 @@
 
 ======== All Movies ======
 
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Ministry-of-Ungentlemanly-Warfare.jpg",THE MINISTRY OF UNGENTLEMANLY WARFARE (2024) แสบจารชนคนพลิกโลก
+https://streamhls.com/view/923cd8e9-0e5a-5a40-8a2f-17d8e759ce7d.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/Colors-of-Evil-Red-2024.jpg",COLORS OF EVIL: RED (KOLORY ZLA. CZERWIEN) (2024) แดงดั่งสีปีศาจ
+https://streamhls.com/view/261950b5-acb6-5423-9df4-b60aa88dc804.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Too-Old-for-Fairy-Tales-2-2024.jpg",TOO OLD FOR FAIRY TALES 2 (ZA DUZY NA BAJKI 2) (2024) เทพนิยายไม่ใช่ของเด็กโต 2
+https://streamhls.com/view/05570c71-b4e6-5fc5-87c2-8e6293e53258.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Price-of-Nonna-s-Inheritance.jpg",THE PRICE OF NONNA’S INHERITANCE (RICCHI A TUTTI I COSTI) (2024) มรดกคุณยาย
+https://streamhls.com/view/fefc3347-3f3d-5982-9af4-cefae0f7014d.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2015/09/Law-Abiding-Citizen-200x300.jpg",LAW ABIDING CITIZEN (2009) ขังฮีโร่ โค่นอำนาจ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/57474da1-ee16-5aac-b946-73900ee705d9.m3u8
