@@ -2,6 +2,14 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Sting-2024.jpg",STING (2024)
+https://streamhls.com/view/551fc956-938a-5185-8288-3855e399e715.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Penduko.jpg",PENDUKO (2023) เปนดูโก้
+https://streamhls.com/view/01c7eb70-e368-5b6f-be49-ba2f5b43867f.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Hit-Man-2024.jpg",HIT MAN (2024) นักฆ่าน่าหลอก
+https://streamhls.com/view/14b3e721-1a32-5e17-bd93-21f559593a4c.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2015/01/201610311310179vzsqqUmzysC71FIUDK5WMQfjoi1.jpg",NO COUNTRY FOR OLD MEN (2007) ล่าคนดุในเมืองเดือด
 https://streamhls.com/view/9e8a1b0c-7536-5e0b-826e-24b82d1ccf67.m3u8
 
