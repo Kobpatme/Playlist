@@ -4,27 +4,35 @@
 ======== All Movies ======
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Sting-2024.jpg",STING (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/551fc956-938a-5185-8288-3855e399e715.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Penduko.jpg",PENDUKO (2023) เปนดูโก้
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/01c7eb70-e368-5b6f-be49-ba2f5b43867f.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Hit-Man-2024.jpg",HIT MAN (2024) นักฆ่าน่าหลอก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/14b3e721-1a32-5e17-bd93-21f559593a4c.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2015/01/201610311310179vzsqqUmzysC71FIUDK5WMQfjoi1.jpg",NO COUNTRY FOR OLD MEN (2007) ล่าคนดุในเมืองเดือด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/9e8a1b0c-7536-5e0b-826e-24b82d1ccf67.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Ministry-of-Ungentlemanly-Warfare.jpg",THE MINISTRY OF UNGENTLEMANLY WARFARE (2024) แสบจารชนคนพลิกโลก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/923cd8e9-0e5a-5a40-8a2f-17d8e759ce7d.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/Colors-of-Evil-Red-2024.jpg",COLORS OF EVIL: RED (KOLORY ZLA. CZERWIEN) (2024) แดงดั่งสีปีศาจ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/261950b5-acb6-5423-9df4-b60aa88dc804.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Too-Old-for-Fairy-Tales-2-2024.jpg",TOO OLD FOR FAIRY TALES 2 (ZA DUZY NA BAJKI 2) (2024) เทพนิยายไม่ใช่ของเด็กโต 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/05570c71-b4e6-5fc5-87c2-8e6293e53258.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Price-of-Nonna-s-Inheritance.jpg",THE PRICE OF NONNA’S INHERITANCE (RICCHI A TUTTI I COSTI) (2024) มรดกคุณยาย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/fefc3347-3f3d-5982-9af4-cefae0f7014d.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2015/09/Law-Abiding-Citizen-200x300.jpg",LAW ABIDING CITIZEN (2009) ขังฮีโร่ โค่นอำนาจ
@@ -32,26 +40,46 @@ https://streamhls.com/view/fefc3347-3f3d-5982-9af4-cefae0f7014d.m3u8
 https://streamhls.com/view/57474da1-ee16-5aac-b946-73900ee705d9.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/Agak-Laen.jpg",AGAK LAEN (2024) บ้านสยองแสนสนุก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/1a46ed1c-97a9-58d9-aaee-3d52dc5dfd9b.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/04/Book-Club2.jpg",BOOK CLUB: THE NEXT CHAPTER (2023) ก๊วนลับฉบับสาวแซ่บ ตะลุยอิตาลี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/861a61d0-964b-5f1b-be58-df21fa4a97f0.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/01/Concrete-Utopia.jpg",CONCRETE UTOPIA (2023) คอนกรีต ยูโทเปีย วิมานกลางนรก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/19a0f187-3e66-5e7b-a83f-e9b6e31d8de3.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/02/The-Parades.png",THE PARADES (2024) เดอะ พาเหรด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/6c3758bc-5407-5250-8318-dd3b671256d3.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/02/Ajoomma.png",AJOOMMA (2022) คุณป้าซารางเฮ
 https://streamhls.com/view/1a90c03b-f467-51f0-9399-10641eb85a68.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2018/07/Champions-2023.jpg",CHAMPIONS (2023) แชมเปี้ยนส์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/b1cae9e4-10f7-563e-8c1b-bd92d9f63228.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/02/Five-Blind-Dates-2024.png",FIVE BLIND DATES (2024) ห้าเดทวุ่น ลุ้นพบรัก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/bdb63942-e175-5398-8118-e5f15b41bda2.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/02/I-Love-You-Two-Thousand-2023.jpg",14 อีกครั้ง (2023) I LOVE YOU TWO THOUSAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/cb379d9d-f6e8-5c91-b1fa-6f9c3bc74984.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/Operation-Fortune-Ruse-De-Guerre-2023.jpg",OPERATION FORTUNE: RUSE DE GUERRE (2023) ปฏิบัติการระห่ำโคตรคนฟอร์จูน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/f9c5061e-ccc6-5f30-8a93-55eebd2c2595.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/01/Postman.png",ไปรษณีย์ 4 โลก (2024) POSTMAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/c7b86825-cc6f-566a-a5d4-d138722309a2.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/01/Holy-Spider.jpg",HOLY SPIDER (2022) ฆาตกรรมเภณีเมืองศักดิ์สิทธิ์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/e61cd72b-2f3b-5926-99a5-d36272b7fdb8.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Under-Paris.jpg",UNDER PARIS (2024) มฤตยู ใต้ปารีส
