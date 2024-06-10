@@ -4,9 +4,11 @@
 ======== All Movies ======
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/Chief-of-Station-2024.jpg",CHIEF OF STATION (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/433f2d6f-ce16-53a1-90ab-f0509227c88f.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2022/08/Minions-The-Rise-of-Gru-2022-200x300.jpg",มินเนี่ยน 2 (2022) MINIONS THE RISE OF GRU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/28c43814-f6fb-504d-98c2-ebec3f0fa566.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Sting-2024.jpg",STING (2024)
