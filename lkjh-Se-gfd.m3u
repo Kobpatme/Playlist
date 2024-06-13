@@ -1,8 +1,36 @@
 #EXTM3U 					
 
+===== Hierarchy (2024) วังวนสงครามชนชั้น =====
+#EXTINF:-1 type="series" tvg-logo="https://i3.wp.com/series-indy.com/wp-content/uploads/2024/06/Hierarchy.jpg?resize=200,300" group-title="series",Hierarchy (2024) วังวนสงครามชนชั้น S01 E01
+https://series-cdn.team-indy.net:8443/vod/fJDW8inWlj/video.mp4/playlist.m3u8
+#EXTINF:-1 type="series" tvg-logo="https://i3.wp.com/series-indy.com/wp-content/uploads/2024/06/Hierarchy.jpg?resize=200,300" group-title="series",Hierarchy (2024) วังวนสงครามชนชั้น S01 E02
+https://series-cdn.team-indy.net:8443/vod/GQqBX9xwyb/video.mp4/playlist.m3u8
+#EXTINF:-1 type="series" tvg-logo="https://i3.wp.com/series-indy.com/wp-content/uploads/2024/06/Hierarchy.jpg?resize=200,300" group-title="series",Hierarchy (2024) วังวนสงครามชนชั้น S01 E03
+https://series-cdn.team-indy.net:8443/vod/rr0qG6TCEh/video.mp4/playlist.m3u8
+#EXTINF:-1 type="series" tvg-logo="https://i3.wp.com/series-indy.com/wp-content/uploads/2024/06/Hierarchy.jpg?resize=200,300" group-title="series",Hierarchy (2024) วังวนสงครามชนชั้น S01 E04
+https://series-cdn.team-indy.net:8443/vod/q5ZaUPSgZ7/video.mp4/playlist.m3u8
+#EXTINF:-1 type="series" tvg-logo="https://i3.wp.com/series-indy.com/wp-content/uploads/2024/06/Hierarchy.jpg?resize=200,300" group-title="series",Hierarchy (2024) วังวนสงครามชนชั้น S01 E05
+https://series-cdn.team-indy.net:8443/vod/u24On6HY3m/video.mp4/playlist.m3u8
+#EXTINF:-1 type="series" tvg-logo="https://i3.wp.com/series-indy.com/wp-content/uploads/2024/06/Hierarchy.jpg?resize=200,300" group-title="series",Hierarchy (2024) วังวนสงครามชนชั้น S01 E06
+https://series-cdn.team-indy.net:8443/vod/iJCNgKWIMW/video.mp4/playlist.m3u8
+#EXTINF:-1 type="series" tvg-logo="https://i3.wp.com/series-indy.com/wp-content/uploads/2024/06/Hierarchy.jpg?resize=200,300" group-title="series",Hierarchy (2024) วังวนสงครามชนชั้น S01 E07
+https://series-cdn.team-indy.net:8443/vod/BAPtvW7wdy/video.mp4/playlist.m3u8
+
+=== Night Has Come (2024) – เกมโหวตตาย ===
+#EXTINF:-1 type="series" tvg-logo="https://i0.wp.com/series-indy.com/wp-content/uploads/2024/01/Night-Has-Come-02.webp?resize=648%2C922&ssl=1" group-title="series",Night Has Come (2024) – เกมโหวตตาย E01
+https://series-cdn.team-indy.net:8443/vod/sV6PbEXFC4/video.mp4/playlist.m3u8
+#EXTINF:-1 type="series" tvg-logo="https://i0.wp.com/series-indy.com/wp-content/uploads/2024/01/Night-Has-Come-02.webp?resize=648%2C922&ssl=1" group-title="series",Night Has Come (2024) – เกมโหวตตาย E02
+https://series-cdn.team-indy.net:8443/vod/K4f6Md9YjP/video.mp4/playlist.m3u8
+#EXTINF:-1 type="series" tvg-logo="https://i0.wp.com/series-indy.com/wp-content/uploads/2024/01/Night-Has-Come-02.webp?resize=648%2C922&ssl=1" group-title="series",Night Has Come (2024) – เกมโหวตตาย E03
+https://series-cdn.team-indy.net:8443/vod/DqbfO4BC8M/video.mp4/playlist.m3u8
+#EXTINF:-1 type="series" tvg-logo="https://i0.wp.com/series-indy.com/wp-content/uploads/2024/01/Night-Has-Come-02.webp?resize=648%2C922&ssl=1" group-title="series",Night Has Come (2024) – เกมโหวตตาย E04
+https://series-cdn.team-indy.net:8443/vod/7EEhHUZ1zw/video.mp4/playlist.m3u8
+#EXTINF:-1 type="series" tvg-logo="https://i0.wp.com/series-indy.com/wp-content/uploads/2024/01/Night-Has-Come-02.webp?resize=648%2C922&ssl=1" group-title="series",Night Has Come (2024) – เกมโหวตตาย E05
+https://series-cdn.team-indy.net:8443/vod/9STJEW3R1z/video.mp4/playlist.m3u8
+#EXTINF:-1 type="series" tvg-logo="https://i0.wp.com/series-indy.com/wp-content/uploads/2024/01/Night-Has-Come-02.webp?resize=648%2C922&ssl=1" group-title="series",Night Has Come (2024) – เกมโหวตตาย E06
+https://series-cdn.team-indy.net:8443/vod/kyxhk54cK6/video.mp4/playlist.m3u8
 
 ===== What’s Wrong With Secretary Kim (2018) รักมั้ยนะ เลขาคิม =====
-
 #EXTINF:-1 type="series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/02/20191031101351e0915d0f26a7ab34ad49c1098ed14e1e.jpg" group-title="series",What’s Wrong With Secretary Kim (2018) รักมั้ยนะ เลขาคิม E01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://series-cdn.team-indy.net:8443/vod/Yun6ofkZ/video.mp4/playlist.m3u8
@@ -51,7 +79,6 @@ https://series-cdn.team-indy.net:8443/vod/rnANrDLC/video.mp4/playlist.m3u8
 #EXTINF:-1 type="series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/02/20191031101351e0915d0f26a7ab34ad49c1098ed14e1e.jpg" group-title="series",What’s Wrong With Secretary Kim (2018) รักมั้ยนะ เลขาคิม E16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://series-cdn.team-indy.net:8443/vod/LoJ2w1Mo/video.mp4/playlist.m3u8
-
 
 ====== MOON KNIGHT มูนไนท์ (2022) (SEASON 1) =======
 #EXTINF:-1 type="series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2022/03/x6FsYvt33846IQnDSFxla9j0RX8.jpg" group-title="series",MOON KNIGHT มูนไนท์ (2022) S01 E01
@@ -133,9 +160,7 @@ https://sgcdnseriesn.xyz/view/666de3d6-3e64-5ffa-ac45-9e408523348b.m3u8
 #EXTINF:-1 type="series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2024/05/Joy-of-Life-2.jpg" group-title="series",Joy of Life 2 (2024) หาญท้าชะตาฟ้า ปริศนายุทธจักร 2 S02 E32
 https://sgcdnseriesn.xyz/view/4cc1624f-5f65-5947-b4fc-1bf5e8c2b614.m3u8
 
-
 ===== BRANDING IN SEONGSU สวิตช์รัก สลับร่าง (2024) S01 =====
-
 #EXTINF:-1 type="series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Branding-in-Seongsu-2024.jpg" group-title="series",BRANDING IN SEONGSU สวิตช์รัก สลับร่าง (2024) S01 E01
 https://sgcdnseriesn.xyz/view/1912d186-ab2f-5555-b714-bc7d1a009fb8.m3u8
 #EXTINF:-1 type="series" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Branding-in-Seongsu-2024.jpg" group-title="series",BRANDING IN SEONGSU สวิตช์รัก สลับร่าง (2024) S01 E02
@@ -208,7 +233,6 @@ https://sgcdnseriesn.xyz/view/6422e878-0d28-5605-921c-343a6f24c6cd.m3u8
 https://sgcdnseriesn.xyz/view/88346e84-e13d-578a-95d3-91a7d4b3e5a4.m3u8
 
 ======= สงครามสมรส =======
-
 #EXTINF:-1 type="series" tvg-logo="https://mpics.mgronline.com/pics/Images/567000002371203.JPEG" group-title="ละคร",สงครามสมรส E01
 https://www.watchlakorn.in/egdeny/4671102064d03d9b7f1ff7b5f7073663/aGQ=/master.m3u8
 #EXTINF:-1 type="series" tvg-logo="https://mpics.mgronline.com/pics/Images/567000002371203.JPEG" group-title="ละคร",สงครามสมรส E02
@@ -253,7 +277,6 @@ https://www.watchlakorn.in/egdeny/39f4d5ce69b0edd3fff5fca3b1c3945a/aGQ=/master.m
 https://www.watchlakorn.in/egdeny/d08fb095dcf3867ba355c8adf780f28d/aGQ=/master.m3u8
 
 ###### ลมเล่นไฟ #####
-
 #EXTINF:-1 type="series" tvg-logo="https://s.isanook.com/mv/0/ui/33/166827/gal-166827-20240326030742-df9ca98.jpeg?ip/crop/w175h175/q80/jpeg" group-title="ละคร" ,ลมเล่นไฟ E01
 https://www.watchlakorn.in/egdeny/8f970f4e205a26692f72f105f5b03469/aGQ=/master.m3u8
 #EXTINF:-1 type="series" tvg-logo="https://s.isanook.com/mv/0/ui/33/166827/gal-166827-20240326030742-df9ca98.jpeg?ip/crop/w175h175/q80/jpeg" group-title="ละคร" ,ลมเล่นไฟ E02
@@ -340,7 +363,6 @@ https://sgcdnseriesn.xyz/view/c6bfaf37-c0cf-5fb0-8447-c2d382a82092.m3u8
 https://sgcdnseriesn.xyz/view/3a298641-9318-5b57-930b-bb7618f19aae.m3u8
 #EXTINF:-1 type="series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/02/20191029143808Kingdom_Korean_Drama-TP.jpg" group-title="series",Kingdom (2019) ผีดิบคลั่งบัลลังก์เดือด S01 E06
 https://sgcdnseriesn.xyz/view/e5f98a7a-9219-58e7-9124-b1bc695d6787.m3u8
-
 #EXTINF:-1 type="series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/02/2020031315564520200225082635121ecmo.jpg" group-title="series",Kingdom (2020) ผีดิบคลั่งบัลลังก์เดือด S02 E01
 https://sgcdnseriesn.xyz/view/09575417-c569-5a86-aae1-2df51c18e92e.m3u8
 #EXTINF:-1 type="series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2022/02/2020031315564520200225082635121ecmo.jpg" group-title="series",Kingdom (2020) ผีดิบคลั่งบัลลังก์เดือด S02 E02
