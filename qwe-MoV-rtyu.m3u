@@ -3,6 +3,19 @@
 
 ======== All Movies ======
 
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2018/04/1703301436390VFqX.jpg",THAILAND ONLY (2017) ไทยแลนด์ โอนลี่ เมืองไทยอะไรก็ได้
+https://streamhls.com/view/4034bef4-6b2e-5d7f-80c7-29c174cf156b.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/02/Snoopy-Presents-Welcome-Home-Franklin-2024.jpg",SNOOPY PRESENTS: WELCOME HOME FRANKLIN (2024)
+https://hlsp2p.xyz/view/e9dc6cd0-dc41-5fa0-8ae2-b5346872aa9f.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2014/12/Iron-Man-1.jpg",IRON MAN E01
+https://streamhls.com/view/29dd2c9c-63c6-5c58-9078-7d0ece0530a0.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2014/12/Iron_Man_2_Poster_250x370.jpg",IRON MAN E02
+https://streamhls.com/view/e393a791-fc49-52e6-8e2d-5c81466bdb4b.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2014/09/ironman3.jpg",IRON MAN E03
+https://streamhls.com/view/72451d82-e392-5f2c-a0db-baf2e0df4b2b.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/Chief-of-Station-2024.jpg",CHIEF OF STATION (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/433f2d6f-ce16-53a1-90ab-f0509227c88f.m3u8
