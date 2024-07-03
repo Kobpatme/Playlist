@@ -2,7 +2,16 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
-
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga.jpg",FURIOSA: A MAD MAX SAGA (2024) ฟูริโอซ่า: มหากาพย์ แมด แม็กซ์
+https://streamhls.com/view/11f3ae69-1c8d-5e2f-b2d1-5325e347c62f.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Fall-Guy.jpg",THE FALL GUY (2024) สตันท์แมนคนจริง
+https://streamhls.com/view/bcf98bf2-8c0d-5512-94ac-e2d4398a9c91.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Trigger-Warning.jpg",TRIGGER WARNING (2024) ลั่นไกเตือน
+https://streamhls.com/view/423acc53-aba7-55d6-b615-89d071330e47.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Kleks-Academy-2023.jpg",KLEKS ACADEMY (AKADEMIA PANA KLEKSA) (2024) โรงเรียนมายาคุณเคล็กซ์
+https://streamhls.com/view/15b16daf-71e2-56e0-9c43-842b9c458f9f.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Chinatown-Chacha.jpg",ไชน่าทาวน์ ชะช่า (2024) CHINATOWN CHACHA
+https://streamhls.com/view/9fd03ff0-0c76-50f5-87ab-1f14763adc42.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Chinatown-Chacha.jpg",ไชน่าทาวน์ ชะช่า (2024) CHINATOWN CHACHA
 https://streamhls.com/view/9fd03ff0-0c76-50f5-87ab-1f14763adc42.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2018/08/dMNGy8kfySmmNDHw3X4puqPIbx8.jpg",THE MERCILESS (2017) แก๊งค์ระห่ำ โหดทะลุพิกัด
