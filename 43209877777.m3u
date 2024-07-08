@@ -2,6 +2,10 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 
+
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/42000/42961/preview.jpg",IPZZ-333
+https://home-clone-clear.mushroomtrack.com/hls/3cpFeK2faGZcwdTvDf2Vrg/1720468380/42000/42961/42961.m3u8
+
 ====== 03-06-2024 ======
 #EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/scop-840/cover-n.jpg",SCOP-840
 https://surrit.com/0bf13d93-2456-49c1-bc59-9219add1a14f/playlist.m3u8
