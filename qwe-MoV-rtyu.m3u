@@ -2,6 +2,15 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/07/Pattaya-Heat-2024.jpg",PATTAYA HEAT (2024) ปิดเมืองล่า
+https://streamhls.com/view/6c0df2a0-4322-5873-9d24-fc492e901ceb.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/07/Space-Cadet.jpg",SPACE CADET (2024) สาวแสบซ่า ท้าอวกาศ
+https://streamhls.com/view/9861c3bb-cf9b-5d3b-9a7b-08116a11df7d.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/07/Goyo-2024.jpg",GOYO (2024) โกโย่
+https://streamhls.com/view/9d13d167-0a1e-5774-b68d-e41823495999.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/07/Beverly-Hills-Cop-Axel-F.jpg",BEVERLY HILLS COP: AXEL F (2024) โปลิศจับตำรวจ: เอ็กเซล เอฟ
+https://streamhls.com/view/c2c34656-429b-5323-a33f-d69e89207099.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/Furiosa-A-Mad-Max-Saga.jpg",FURIOSA: A MAD MAX SAGA (2024) ฟูริโอซ่า: มหากาพย์ แมด แม็กซ์
 https://streamhls.com/view/11f3ae69-1c8d-5e2f-b2d1-5325e347c62f.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Fall-Guy.jpg",THE FALL GUY (2024) สตันท์แมนคนจริง
@@ -11,9 +20,6 @@ https://streamhls.com/view/423acc53-aba7-55d6-b615-89d071330e47.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Kleks-Academy-2023.jpg",KLEKS ACADEMY (AKADEMIA PANA KLEKSA) (2024) โรงเรียนมายาคุณเคล็กซ์
 https://streamhls.com/view/15b16daf-71e2-56e0-9c43-842b9c458f9f.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Chinatown-Chacha.jpg",ไชน่าทาวน์ ชะช่า (2024) CHINATOWN CHACHA
-https://streamhls.com/view/9fd03ff0-0c76-50f5-87ab-1f14763adc42.m3u8
-#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Chinatown-Chacha.jpg",ไชน่าทาวน์ ชะช่า (2024) CHINATOWN CHACHA
-https://streamhls.com/view/9fd03ff0-0c76-50f5-87ab-1f14763adc42.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2018/08/dMNGy8kfySmmNDHw3X4puqPIbx8.jpg",THE MERCILESS (2017) แก๊งค์ระห่ำ โหดทะลุพิกัด
 https://streamhls.com/view/c90d4fc1-d827-5edd-8e6f-29d15a9b3ed4.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2018/04/1703301436390VFqX.jpg",THAILAND ONLY (2017) ไทยแลนด์ โอนลี่ เมืองไทยอะไรก็ได้
