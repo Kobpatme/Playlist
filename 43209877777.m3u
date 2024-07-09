@@ -1,6 +1,58 @@
 #EXTM3U  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
+
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/41000/41067/preview.jpg",IPZZ-260
+https://zizir-alsosn.mushroomtrack.com/hls/DOOKL06rxjIScoRleraafQ/1720519789/41000/41067/41067.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/15000/15218/preview.jpg",FSDSS-208
+https://ap-drop-monst.mushroomtrack.com/bcdn_token=xfcaBwabvh5euX1KVUp3fuL0KHygaJ3Zzep5CdemHiM&expires=1720516468&token_path=%2Fvod%2F/vod/15000/15218/15218.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/6000/6143/preview.jpg",MIMK-069
+https://ao-block-ater.mushroomtrack.com/bcdn_token=Z64neHkxHhRTcn9z8lNjnWMA4YMYBbOh_9ozr3Wd2qU&expires=1720516075&token_path=%2Fvod%2F/vod/6000/6143/6143.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/33000/33368/preview.jpg",SAME-059
+https://znnma-lanq.mushroomtrack.com/hls/EHI1aa1g0q-cCeyBKWtn1Q/1720520012/33000/33368/33368.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/42000/42708/preview.jpg",MKMP-562
+https://amuse-lefty.mushroomtrack.com/hls/_fPtqNURBxmNID96Wi5EmA/1720520152/42000/42708/42708.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/38000/38765/preview.jpg",SDAM-093
+https://znop-balan.mushroomtrack.com/hls/02XJHxUXn4lQ60dmcyUcoA/1720520163/38000/38765/38765.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/34000/34328/preview.jpg",DASS-176
+https://zorr-onepa.mushroomtrack.com/hls/GTtpzpIXbfEW_JcPM7X6hw/1720520556/34000/34328/34328.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/30000/30406/preview.jpg",CAWD-449
+https://gmas-clena.mushroomtrack.com/hls/WYLCu19G3szStmbjxvy3KQ/1720519805/30000/30406/30406.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/40000/40499/preview.jpg",FOCS-186
+https://znumlu-masot.mushroomtrack.com/hls/QpuF7B31C7vJleENTxH0bg/1720520782/40000/40499/40499.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/23000/23896/preview.jpg",MIAA-629
+https://fuaf-uying.mushroomtrack.com/hls/mkzXFBlcez9k_igyYKoDXA/1720520974/23000/23896/23896.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/9000/9559/preview.jpg",CESD-917
+https://ao-block-ater.mushroomtrack.com/bcdn_token=50Rpv_GPGoe7fZy0CQutpY4fQzxuw-nfAYCY3HQAQlM&expires=1720517506&token_path=%2Fvod%2F/vod/9000/9559/9559.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/9000/9209/preview.jpg",FSET-889
+https://ao-block-ater.mushroomtrack.com/bcdn_token=FrWqFsnjOZo3IS36vTS6EvdWSpOP4J2nQQRq_0ahYVA&expires=1720517572&token_path=%2Fvod%2F/vod/9000/9209/9209.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/6000/6969/preview.jpg",WANZ-933
+https://ao-block-ater.mushroomtrack.com/bcdn_token=-xWsCIY3emp4Ps3yjOihL82UEACFgktv_OgjilN-AVQ&expires=1720517521&token_path=%2Fvod%2F/vod/6000/6969/6969.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/0/511/preview.jpg",100518-766
+https://qabo-ahha.mushroomtrack.com/hls/ZxBN1QCwOYqsGuM9jxQZnA/1720521437/0/511/511.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/42000/42960/preview.jpg",IPZZ-325
+https://astin-cowing.mushroomtrack.com/hls/ABS25XYA8Ydsn3empNrmhA/1720521092/42000/42960/42960.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/42000/42378/preview.jpg",MIH-006
+https://home-clone-clear.mushroomtrack.com/hls/u-Sk0SJLkq1y5oLxWRLBAg/1720521533/42000/42378/42378.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/42000/42347/preview.jpg",AIAV-004
+https://adoda-smart-coin.mushroomtrack.com/hls/xZnw5MJdmZ4k-RNr4892rA/1720521919/42000/42347/42347.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/39000/39579/preview.jpg",MTALL-104
+https://zmulun-cocono.mushroomtrack.com/hls/p1-1rPlgN2IS1LnP6DtIsg/1720522263/39000/39579/39579.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/37000/37139/preview.jpg",MILK-189
+https://zkour-toge.mushroomtrack.com/hls/KtSvh0UNjzELuuimpl-S2w/1720522097/37000/37139/37139.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/32000/32716/preview.jpg",MILK-172
+https://galav-oxwy.mushroomtrack.com/hls/vnjZmTonKMwvJiUd0s6XbA/1720522313/32000/32716/32716.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/33000/33420/preview.jpg",MIRD-228
+https://znnma-lanq.mushroomtrack.com/hls/kDVQ2kdugAfZV8yEdP4mrQ/1720521980/33000/33420/33420.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/22000/22190/preview.jpg",DASD-970
+https://fuaf-uying.mushroomtrack.com/hls/WOqjOaXbd-8md4dObHVkkw/1720522633/22000/22190/22190.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/17000/17260/preview.jpg",DASD-886
+https://masmao-toera.mushroomtrack.com/hls/0OR3c20Kr5oLWAjWODAVuw/1720522694/17000/17260/17260.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/18000/18836/preview.jpg",DASD-914
+https://masmao-toera.mushroomtrack.com/hls/hBYC3ASgrNkFDxi4F_RDzQ/1720522788/18000/18836/18836.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/5000/5897/preview.jpg",XRW-829
+https://ao-block-ater.mushroomtrack.com/bcdn_token=_Uw_k-ocLRfbZVP0uTT-8X5hqjxz7yNpVJB22IA3Wv8&expires=1720518983&token_path=%2Fvod%2F/vod/5000/5897/5897.m3u8
+
 #EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/42000/42742/preview.jpg",JUQ-752
 https://homi-doki-mani.mushroomtrack.com/hls/HjZFNGViAZsUI_Fn6GX9Fg/1720517861/42000/42742/42742.m3u8
 #EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/42000/42514/preview.jpg",MUKD-507
