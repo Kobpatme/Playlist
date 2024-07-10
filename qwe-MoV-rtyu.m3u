@@ -3,6 +3,11 @@
 
 ======== All Movies ======
 
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/07/Love-Reset.jpg",LOVE RESET (2023) 30 วันโคตร(เกลียด)เธอเลย
+https://streamhls.com/view/e781780a-e544-59f1-a468-31963f2c0d2d.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Garfield-Movie-2024.jpg",THE GARFIELD MOVIE (2024) เดอะ การ์ฟิลด์ มูฟวี่
+https://streamhls.com/view/49efd963-dca3-5bde-8fc8-5f21a5cc9a69.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/07/Pattaya-Heat-2024.jpg",PATTAYA HEAT (2024) ปิดเมืองล่า
 https://streamhls.com/view/6c0df2a0-4322-5873-9d24-fc492e901ceb.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/07/Space-Cadet.jpg",SPACE CADET (2024) สาวแสบซ่า ท้าอวกาศ
