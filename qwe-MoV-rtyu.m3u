@@ -3,7 +3,10 @@
 
 ======== All Movies ======
 
-
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/07/Wild-Wild-Punjab.jpg",WILD WILD PUNJAB ปัญจาบป่วน มันส์ ฮา (2024)
+https://streamhls.com/view/3e127468-ba43-521b-a7a1-5cb8950212db.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Bad-Boys-Ride-or-Die.jpg",BAD BOYS: RIDE OR DIE (2024) คู่หูขวางนรก: ลุยต่อให้โลกจำ
+https://streamhls.com/view/6d69dafa-a19b-5091-99ec-1186ebb25e0d.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/07/Love-Reset.jpg",LOVE RESET (2023) 30 วันโคตร(เกลียด)เธอเลย
 https://streamhls.com/view/e781780a-e544-59f1-a468-31963f2c0d2d.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Garfield-Movie-2024.jpg",THE GARFIELD MOVIE (2024) เดอะ การ์ฟิลด์ มูฟวี่
