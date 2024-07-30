@@ -2,7 +2,8 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
-
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/07/Pee-Nak.jpg",พี่นาค 4 (2024) Pee Nak 4
+https://streamhls.com/view/21e32aa1-65f0-546b-8f23-d92c0ace9e4f.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/07/Wild-Wild-Punjab.jpg",WILD WILD PUNJAB ปัญจาบป่วน มันส์ ฮา (2024)
 https://streamhls.com/view/3e127468-ba43-521b-a7a1-5cb8950212db.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Bad-Boys-Ride-or-Die.jpg",BAD BOYS: RIDE OR DIE (2024) คู่หูขวางนรก: ลุยต่อให้โลกจำ
