@@ -130,6 +130,9 @@ https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist
 
 
 
+
+
+
 #EXTINF:-1 group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/Valentines2024_IconTV.png" 
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="CH_Digital",NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
@@ -137,7 +140,7 @@ https://cdn120.stm.trueid.net/p302aes/c11_multi_w_auto_tidapp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="CH_Digital",THAI PBS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn144.stm.trueid.net/p401aes/c12_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=ee45e5fdc0&did=UjYwTEpZQlNNc1VUQXd5Q01rVVctcGQ3WVdiMHdwNzk&mpass=A6TFxqDBgzCzv8WbhTRmUIlaCqFR-zKZIV1UhKaLxVyb3kEizBKrIiqVp5WQu3nD7g1syG94ECPWri8Xt43e1BzL2SzXLMZiVGnfJgCrCPwgIEXFn32Ya5vT_qIN8KnTjR4&sid=f9d0de820c&rt=1723127640&ds=86400&tk=e_D928Qpew7NAzoQD428LJhjIUPCxI_CGxyBBB88vAM
+https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="CH_Digital",ALTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
@@ -145,7 +148,7 @@ https://cdn146.stm.trueid.net/p202aes/dum024_multi_w_auto_tidapp.smil/playlist.m
 
 #EXTINF:-1 tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="CH_Digital",TV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn765.stm.trueid.net/p301aes/c05_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=74baffbc19&did=UjYwTEpZQlNNc1VUQXd5Q01rVVctcGQ3WVdiMHdwNzk&mpass=lHqTd_8CavS-D4nSEzxLJ4JBw0pDkS6eCCbO2DdN5Z39urT799b0VzPkMf-p7Kq1zP2x-iDQTVFuTXq3eU3ZgcxA3QEuWF62W90PW1HPUm0gIMjJ97O8LugEbIkk2rcjlBo&sid=1f1354e4c0&rt=1723127707&ds=86400&tk=nCRTGfFqATQee5eq5Ti1UHQa43r36HTxp72MbNAKcnI
+https://edge5.thaicom.io/v3/tb/TV5_HD/playlist.m3u8?uuid=5efb7ed1-19b1-4173-bb51-99ad5b1f3a1f&device=loox-web&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiNWVmYjdlZDEtMTliMS00MTczLWJiNTEtOTlhZDViMWYzYTFmIiwiY2hhbm5lbCI6IlRWNV9IRCIsInF1YWxpdHkiOiJBMSIsImlhdCI6MTcyMzEyOTE1NCwibmJmIjoxNzIzMTI5MTU0LCJleHAiOjE3MjMxNTc5NTR9.SA3pjjghzn-mAgGHrQD1NZTj2u-SMZ3bgGACAYGYo1Q
 
 #EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="CH_Digital",T Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
@@ -156,10 +159,6 @@ https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV/index.m3u8
 https://livestream.parliament.go.th/lives/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN 16" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="CH_Digital",TNN 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn025.stm.trueid.net/p201aes/135_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=508ab2f7f6&did=bVg3ZXFVYi0taGZtUTRKdlJ3SUtHZEZva2hoZHZDZ1E&mpass=tv4exS-wLcjLPoujf_tesAs-1A11TqVqrt8c55SGTN7M1dAnU77GXalbj-zbiwFMLf3bwRbbyXURhZ5cWe15gS3ew5OZn4DcJwVnUdVdKbwgIJ9NlDRAL9pNOJDhRRNzW5g&sid=46c2ad7231&rt=1723127866&ds=86400&tk=5sULrstrttPyMaJCkv-88NHbScgkmZ-KWmN6XL0J8kk
 
 #EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="CH_Digital",JKN 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
@@ -173,7 +172,7 @@ https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint TV" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="CH_Digital",Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn091.stm.trueid.net/p202aes/d83_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=f55457565c&did=T0VLUW5jcG1HQVV4S19MbFBoRURHZjlWa3V2Tk4yRV8&mpass=BRiRrXVOVnLZR32JBaL-K1Qhxpxf6Sj-HJYl23XldtyDyFMV9LrRlDzJ_75TdycgMyNRB0WrLVll1VgHYePK52fcsScFevwmk9FMaZUFuaIgIBjUcuT1OFUwZPyEdGd5Rck&sid=4cf682705d&rt=1723127491&ds=86400&tk=3zfP0oF0EBGBKGupEKeBFXW_PiBSPfmhylNa751NUdk
+https://edge1.thaicom.io/v3/ta/Workpoint/playlist.m3u8?uuid=7f49ee12-1e13-4997-82f1-eaa457cb8b5e&device=loox-web&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiN2Y0OWVlMTItMWUxMy00OTk3LTgyZjEtZWFhNDU3Y2I4YjVlIiwiY2hhbm5lbCI6Ildvcmtwb2ludCIsInF1YWxpdHkiOiJBMSIsImlhdCI6MTcyMzEyOTI2MSwibmJmIjoxNzIzMTI5MjYxLCJleHAiOjE3MjMxNTgwNjF9.ztSfqBG2tARhXaeZYLF7c5aSDagtTG3g2_UAwhBcxAA
 
 #EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="CH_Digital",True 4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
@@ -181,7 +180,7 @@ https://cdn091.stm.trueid.net/p101dai/207_multi_w_auto_tidapp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="CH_Digital",GMM 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn119.stm.trueid.net/p202aes/d76_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=296f3c4bc0&did=YVQ3bDBRajc0Zzk4X0pEa1JadldrTGZSTGZma3BtUnM&mpass=sUXi5QF-JHHhTpkasEiH3jvinDUmlFDGIhlXETmRfaINdeGhl5ys8ol4OjqA8nnL2NnSYem4xB5uQ64M5mTmQrvCp-rX3QxswypOKVt9dPggILGgUF-jcd3HNaTJ2MnShSw&sid=6e77dbd8d3&rt=1723127919&ds=86400&tk=ClgyC1NulGwZOSIRPiAKkGdb9WqTqxDRojEvFakzy6k
+https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThaiChannel8.th" tvg-name="CH 8" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" group-title="CH_Digital",CH 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
@@ -197,20 +196,20 @@ https://cdn120.stm.trueid.net/p201aes/c09_multi_w_auto_tidapp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="One31.th" tvg-name="ONE HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="CH_Digital",ONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn118.stm.trueid.net/p101dai/d56_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=9a1f688185&did=cUg5OHdEVmZwZk1NQmhGcWJfeE9jenBRdFdab0taRTk&mpass=pcT7JMcJO-_qpkR-56izXhefAf3HjcSJ3lD8MEWlVgsMKlhRbb9J2G0h0cimMDvs5PCUzN4wIp8J1tQ3yFsZSYrBXlDjFckzQ3kv9udIOMsgIJkQ2JE2je13khIugvgZfyQ&sid=853b053b16&rt=1723127982&ds=86400&tk=MePpPAYCu3MkS6K4DAxmghMhZXbcFVuDZn7zbW-gczA
+https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThairathTV.th" tvg-name="Thairath TV" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="CH_Digital",Thairath TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://ssai-streaming.thairath.co.th/bamm-csai/playlist.m3u8
+https://edge5.thaicom.io/v3/tb/ThairathTV/playlist.m3u8?uuid=ef0b988d-cdc5-4ebc-9e4a-10e700add736&device=loox-web&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiZWYwYjk4OGQtY2RjNS00ZWJjLTllNGEtMTBlNzAwYWRkNzM2IiwiY2hhbm5lbCI6IlRoYWlyYXRoVFYiLCJxdWFsaXR5IjoiQTEiLCJpYXQiOjE3MjMxMjkzNTgsIm5iZiI6MTcyMzEyOTM1OCwiZXhwIjoxNzIzMTU4MTU4fQ.PyYjVBImZeDBkahxqod3GJ-hKH7V8xgog3RMlI2W534
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="CH_Digital",CH3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn119.stm.trueid.net/p101aes/c03_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=9529c41fcd&did=T0VLUW5jcG1HQVV4S19MbFBoRURHZjlWa3V2Tk4yRV8&mpass=dRX-Vc_6ouSNuiP6KAiMHDADZWShQfK9T8C0k1pFWlw8yJIMmyAdKHNPAUTGEvri33CkXCp2IUvC3zuqBew-zJnwSD-IeBVV71gyeC-pkDQgIKeCfj-8rIaRKwAbkzQA5vQ&sid=ead207fd0c&rt=1723127284&ds=86400&tk=zlDobV2Y1_oVaC5wAlbHsETw_ykvOZFm1zP9jxBzWjY
+https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1723171802&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=qdLVkmJ4vjm0A7Rc98hD7w
+
 
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="CH_Digital",Amarin TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
-https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
+https://amarin-ks7jcc.cdn.byteark.com/fleetstream/amarin-live/data/Thai_HD_index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1723169242&x_ark_path_prefix=%2Ffleetstream%2Famarin-live%2F&x_ark_signature=t8X6yr1pJsgn9f6XsVoaHg
 
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="CH_Digital",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
@@ -218,8 +217,8 @@ https://cdn119.stm.trueid.net/p301aes/c07_multi_w_auto_tidapp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="CH_Digital",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
-https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
+https://pptv36-1tsjfj.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_expires=1723149601&x_ark_path_prefix=%2Flive%2F&x_ark_signature=-sB6r_yPoWRQZRp-VdEDrw
+
 
 
 
