@@ -2,7 +2,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
-
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2022/10/zAnH255264.jpg",Accident Man: Hitman’s Holiday (Accident Man 2) (2022) แอ็คซิเด้นท์แมน สุขสันต์วันมือปืน
+https://streamhls.com/view/e040fae8-065c-5e36-a7cd-be0f2ceea3cb.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Inside-the-Mind-of-a-Dog-2024.jpg",Inside the Mind of a Dog (2024) อ่านใจสุนัข
+https://streamhls.com/view/ffe58c0e-4811-59c5-94f1-85ac8cdec5d9.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/One-Fast-Move.jpg",One Fast Move (2024) วันฟาสต์มูฟ
+https://streamhls.com/view/68eccc88-4b40-5a37-9151-63fecaf9f3e1.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Cursed-The-Promised-2024.jpg",เหมรฺย (2024) Cursed (The Promised)
 https://streamhls.com/view/016095b0-11b5-5528-8dfd-4b8743b4d0e9.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/Kingdom-of-the-Planet-of-the-Apes.jpg",Kingdom of the Planet of the Apes (2024) อาณาจักรแห่งพิภพวานร
