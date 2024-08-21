@@ -2,6 +2,17 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Arthur-the-King.jpg",Arthur the King (2024) อาเธอร์ จอมราชา
+https://streamhls.com/view/d80fdf70-d4b4-55c3-941b-1ac2639e2e92.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Fly-Me-to-the-Moon.jpg",Fly Me to the Moon (2024) ทะยานฟ้าสู่พื้นจันทร์
+https://streamhls.com/view/dfbe99be-cd1f-5497-913f-ea77cbaf2d52.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Jackpot.jpg",Jackpot! (2024) แจ็คพ็อต ลุ้น รอด รวย!
+https://streamhls.com/view/b4c494db-483a-5e4b-b322-0c1f4eae4869.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Union.jpg",The Union (2024) เดอะ ยูเนี่ยน
+https://streamhls.com/view/05ac6e81-8546-5b7a-bc09-08947d4d0318.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Inside-the-Mind-of-a-Dog-2024.jpg",Inside the Mind of a Dog (2024) อ่านใจสุนัข
+https://streamhls.com/view/ffe58c0e-4811-59c5-94f1-85ac8cdec5d9.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2022/10/zAnH255264.jpg",Accident Man: Hitman’s Holiday (Accident Man 2) (2022) แอ็คซิเด้นท์แมน สุขสันต์วันมือปืน
 https://streamhls.com/view/e040fae8-065c-5e36-a7cd-be0f2ceea3cb.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Inside-the-Mind-of-a-Dog-2024.jpg",Inside the Mind of a Dog (2024) อ่านใจสุนัข
