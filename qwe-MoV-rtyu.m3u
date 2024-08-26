@@ -2,7 +2,10 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
-
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/One-Fast-Move.jpg",One Fast Move (2024) วันฟาสต์มูฟ
+https://streamhls.com/view/68eccc88-4b40-5a37-9151-63fecaf9f3e1.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Nice-Girls-2024.jpg",Nice Girls (2024)
+https://streamhls.com/view/2d261d10-cdb2-5d37-a46f-26afe76fb47d.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Arthur-the-King.jpg",Arthur the King (2024) อาเธอร์ จอมราชา
 https://streamhls.com/view/d80fdf70-d4b4-55c3-941b-1ac2639e2e92.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Fly-Me-to-the-Moon.jpg",Fly Me to the Moon (2024) ทะยานฟ้าสู่พื้นจันทร์
