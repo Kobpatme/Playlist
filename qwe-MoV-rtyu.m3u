@@ -2,6 +2,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Geji-The-Spirit-Hunter.jpg",Geji: The Spirit Hunter (2024) เกจิ คนฆ่าผี
+https://streamhls.com/view/a37719a7-643f-5f07-ab01-cc5fcdd0f672.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Sleeping-Dogs.jpg",Sleeping Dogs (Sub TH) (2024)
+https://streamhls.com/view/249208d2-a182-5684-8593-590d2c337a30.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/07/Twisters-2024.jpg",Twisters (2024) ทวิสเตอร์ส
+https://streamhls.com/view/96aedb24-f1a7-5c37-ab11-a9444b5137e3.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/One-Fast-Move.jpg",One Fast Move (2024) วันฟาสต์มูฟ
 https://streamhls.com/view/68eccc88-4b40-5a37-9151-63fecaf9f3e1.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Nice-Girls-2024.jpg",Nice Girls (2024)
