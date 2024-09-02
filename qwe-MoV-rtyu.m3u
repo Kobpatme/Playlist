@@ -2,6 +2,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Deliverance.jpg",The Deliverance (2024) บ้านปลดวิญญาณ
+https://streamhls.com/view/b5da46c5-c7ba-531f-88b1-e203930fc64e.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Love-You-to-Debt.jpg",Love You to Debt (2024) เธอฟอร์แคช
+https://streamhls.com/view/5ec21960-6f2d-55ae-9424-51d770bf7c6a.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2021/02/wEHEspDIUKByYR09jjk2CWCJVVD-200x300.jpg",The Night Eats the World (2018)
+https://streamhls.com/view/14335dad-a751-5a52-baa3-4a61ef63f4e2.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Geji-The-Spirit-Hunter.jpg",Geji: The Spirit Hunter (2024) เกจิ คนฆ่าผี
 https://streamhls.com/view/a37719a7-643f-5f07-ab01-cc5fcdd0f672.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Sleeping-Dogs.jpg",Sleeping Dogs (Sub TH) (2024)
