@@ -2,6 +2,8 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/07/Love-Reset.jpg",Love Reset (2023) 30 วันโคตร(เกลียด)เธอเลย
+https://streamhls.com/view/e781780a-e544-59f1-a468-31963f2c0d2d.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Mission-Cross.jpg",Mission Cross (2024) ภารกิจลับพ่อบ้าน
 https://streamhls.com/view/dd5990fc-7df1-5eab-817b-1496a81a11af.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Watchers.jpg",The Watchers (2024) เดอะ วอทเชอร์ส
