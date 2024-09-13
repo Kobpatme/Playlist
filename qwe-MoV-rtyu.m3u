@@ -2,7 +2,18 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
-
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Concrete-Clouds.jpg",ภวังค์รัก (2013) Concrete Clouds
+https://streamhls.com/view/e2097640-c039-5236-adbd-2622948a6f84.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Boxer-2024.jpg",Boxer (2024) นักชกสังเวียนดิบ
+https://master.streamhls.com/hlsr2/29be262aadbf084c16674ce770d15fac/master
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Outlaw-2024.jpg",Outlaw (2024) เจ้าแม่
+https://master.streamhls.com/hlsr2/9666283c4fa124eac87fc6a5f82bf194/master
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/How-to-Make-Millions-Before-Grandma-Dies.jpg",หลานม่า (2024)
+https://master.streamhls.com/hlsr2/4bc408f45b2cd61120d6d51992c2c6b7/master
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Formed-Police-Unit-FPU.jpg",Formed Police Unit (2024) FPU หน่วยพยัคฆ์พิทักษ์ข้ามโลก
+https://master.streamhls.com/hlsr2/139f6391b5abb69a19cce40a9f7abc2a/master
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/07/Despicable-Me-4.jpg",Despicable Me 4 (2024) มิสเตอร์แสบ ร้ายเกินพิกัด 4
+https://master.streamhls.com/hlsr2/aaf053b692e4c25d138ae169a30fa1ef/master
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Mission-Cross.jpg",Mission Cross (2024) ภารกิจลับพ่อบ้าน
 https://master.streamhls.com/hlsr2/ffc082c15842fc6b7b54b80bd3547b7e/master
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Watchers.jpg",The Watchers (2024) เดอะ วอทเชอร์ส
