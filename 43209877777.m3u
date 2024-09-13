@@ -1,6 +1,90 @@
 #EXTM3U  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-375/cover-n.jpg",IPZZ E375
+https://surrit.com/7e68957b-9594-449d-8b4f-247c1fd8a606/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-442/cover-n.jpg",IPZZ E442
+https://surrit.com/c9814c34-db3c-42b4-baa3-42d31cb6b6cb/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-372/cover-n.jpg",IPZZ E372
+https://surrit.com/07305ce4-cd9d-4867-bb50-bf6e323200a0/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-377/cover-n.jpg",IPZZ E377
+https://surrit.com/06b4e07a-8e99-4f35-967b-20f037c15c3e/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-382/cover-n.jpg",IPZZ E382
+https://surrit.com/52c1c150-d6b3-4eed-92dd-1cb19370b55d/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-389/cover-n.jpg",IPZZ E389
+https://surrit.com/20e17721-f7bd-4e40-81ef-073e5ccf1ac9/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-362/cover-n.jpg",IPZZ E362
+https://surrit.com/405f7fa4-3736-465a-ab0c-72b9aff895c5/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-442/cover-n.jpg",IPZZ E442
+https://surrit.com/c9814c34-db3c-42b4-baa3-42d31cb6b6cb/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-381/cover-n.jpg",IPZZ E381
+https://surrit.com/3b68b71e-699f-4509-b5a9-cd889ad58acf/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-365/cover-n.jpg",IPZZ E365
+https://surrit.com/0a6eb159-fe2c-4e14-900c-6e3b422a836d/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-378/cover-n.jpg",IPZZ E378
+https://surrit.com/38663fc7-c61c-4bb7-94c4-4eb37f36deb5/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-354/cover-n.jpg",IPZZ E354
+https://surrit.com/c2d5887a-7457-4d6b-9056-52f437e19365/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-344/cover-n.jpg",IPZZ E344
+https://surrit.com/37a26dd5-2a0d-4e07-adb3-2b0374f46c17/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-346/cover-n.jpg",IPZZ E346
+https://surrit.com/0e87e48b-c282-48d4-83cd-2bfebe1c25e9/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-353/cover-n.jpg",IPZZ E353
+https://surrit.com/c78d0815-d826-4215-ab3c-756c3cb86450/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-333/cover-n.jpg",IPZZ E333
+https://surrit.com/904e11b5-97ec-4e89-a309-40f426ed1a37/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-355/cover-n.jpg",IPZZ E355
+https://surrit.com/7d7a4027-5984-4f3f-b19b-e4f34ba1f135/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-293/cover-n.jpg",IPZZ E293
+https://surrit.com/83ebd057-e1c3-47b6-8390-e3bcf9f56033/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-289/cover-n.jpg",IPZZ E289
+https://surrit.com/eb3d7c10-b35b-4303-afcb-ac6c0f206777/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-217/cover-n.jpg",IPZZ E217
+https://surrit.com/25d5f2d4-006d-4a84-bc5f-b22c8c8d1f0e/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-278/cover-n.jpg",IPZZ E278
+https://surrit.com/8bb87cdc-4b9a-4acf-b2e2-70297cc60e91/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-276/cover-n.jpg",IPZZ E276
+https://surrit.com/b4cc41ff-cecd-40f8-b8ae-115c2a57e947/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-130/cover-n.jpg",SAME E130
+https://surrit.com/0fa0c0ec-e028-46d2-ba43-a5b1493b5c07/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-129/cover-n.jpg",SAME E129
+https://surrit.com/23a91c79-202d-4c0d-9ab7-93cbea29a7be/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-128/cover-n.jpg",SAME E128
+https://surrit.com/659ed623-c194-4de6-8568-de96fe932d6a/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-123/cover-n.jpg",SAME E123
+https://surrit.com/41b0e2bd-9332-43f4-90b9-79e39d638456/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-121/cover-n.jpg",SAME E121
+https://surrit.com/abf67cac-c2dc-4126-bd92-5970167b0a00/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-107/cover-n.jpg",SAME E107
+https://surrit.com/3a7130ab-c9c4-4dbf-92f1-b5577649a81c/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-103/cover-n.jpg",SAME E103
+https://surrit.com/0bc02609-0f41-420b-8355-26d7655768a0/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-080/cover-n.jpg",SAME E080
+https://surrit.com/2cfb17d3-5db3-4d7c-afe0-67b3ca4fc499/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-078/cover-n.jpg",SAME E078
+https://surrit.com/f8ec58b0-59d1-415e-bb18-5270d2b5ee18/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-074/cover-n.jpg",SAME E074
+https://surrit.com/cb0f4406-8425-4020-8733-a3c57b5b5a37/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-057/cover-n.jpg",SAME E057
+https://surrit.com/c0959e23-9758-4208-826f-3bb9033df278/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-059/cover-n.jpg",SAME E059
+https://surrit.com/8a7e997c-c977-4486-a56b-0e577f9e0694/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-054/cover-n.jpg",SAME E054
+https://surrit.com/7c9d10c1-9552-4ebc-8e07-0fa5447f9a48/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-050/cover-n.jpg",SAME E050
+https://surrit.com/f68f9cbd-4a3f-4987-bf82-807b57b5ff48/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-036/cover-n.jpg",SAME E036
+https://surrit.com/1cc78890-4f5a-453f-899f-50b2fd4711a7/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-020/cover-n.jpg",SAME E020
+https://surrit.com/58ae8b4f-b365-414e-807e-bf3dd9d2b26e/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-025/cover-n.jpg",SAME E025
+https://surrit.com/79dc0b4f-5318-4e73-ac89-305f4841f7ee/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-014/cover-n.jpg",SAME E014
+https://surrit.com/ff4046e2-077b-452d-8ff2-446408abc682/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-011/cover-n.jpg",SAME E011
+https://surrit.com/f1fcfcc1-a336-43cc-8f27-45c8fc0565a4/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/same-001/cover-n.jpg",SAME E001
+https://surrit.com/b8f68ed6-0625-40a3-90d5-c8515f702a1e/playlist.m3u8
 #EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/urkk-105/cover-n.jpg",URKK E105
 https://surrit.com/935dba1a-fce5-40ef-a930-76c3b177039f/playlist.m3u8
 #EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/urkk-102/cover-n.jpg",URKK E102
