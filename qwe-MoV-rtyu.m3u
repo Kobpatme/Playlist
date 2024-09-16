@@ -2,6 +2,14 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Uglies-2024.jpg",Uglies (2024) อั๊กลี่
+https://master.streamhls.com/hlsr2/2275f0e807d2062bc8d3681d9af4cea0/master
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Sector-36.jpg",Sector 36 (2024) เซกเตอร์ 36
+https://master.streamhls.com/hlsr2/ecc755ad007bfe385412bd3375cae12e/master
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Officer-Black-Belt-2024.jpg",Officer Black Belt (2024) เจ้าหน้าที่สายดำ
+https://master.streamhls.com/hlsr2/c5dae3a54436d5ce9041a211cb3c3e2d/master
+#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/02/Upgraded-2024.jpg",Upgraded (2024) รักฉบับอัปเกรด
+https://master.streamhls.com/hlsr2/a712c6a1df858300bd4681164d8c1172/master
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Concrete-Clouds.jpg",ภวังค์รัก (2013) Concrete Clouds
 https://streamhls.com/view/e2097640-c039-5236-adbd-2622948a6f84.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Boxer-2024.jpg",Boxer (2024) นักชกสังเวียนดิบ
