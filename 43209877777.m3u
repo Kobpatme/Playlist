@@ -1,6 +1,41 @@
 #EXTM3U  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/start-181/cover-n.jpg",START E181
+https://surrit.com/d88f6c9e-d920-4619-8c20-90cba7cf8326/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/start-170/cover-n.jpg",START E170 
+https://surrit.com/0bea44c0-6762-4905-bbf4-99fb96a46020/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/start-166/cover-n.jpg",START E166
+https://surrit.com/2cadad15-eae8-4db7-891c-4b03fe01bb30/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/fcdss-085/cover-n.jpg",FCDSS E085
+https://surrit.com/0444f9c9-48b8-43f4-bac8-387922f34a72/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/mima-007/cover-n.jpg",MIMA E007
+https://surrit.com/c123c1e0-345f-4a37-bf89-bd14e8ff3762/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/kagp-328/cover-n.jpg",KAGP E328
+https://surrit.com/c16a4771-255c-44d6-923d-61621ddc9479/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/kpie-004/cover-n.jpg",KPIE E004 
+https://surrit.com/88c8a924-8cb8-4be7-88f1-47f7cdae133a/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/kagp-320/cover-n.jpg",KAGP E320
+https://surrit.com/87318019-69e7-44ad-89bd-1cc6432529f9/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/kagp-309/cover-n.jpg",KAGP E309
+https://surrit.com/26beeaa3-49d8-4cd7-a30d-89ee3526ae6e/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/flav-369/cover-n.jpg",FLAV E369
+https://surrit.com/62db6fe9-42ad-4c0f-ab34-4e95e4b13b35/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/pred-704/cover-n.jpg",PRED E704
+https://surrit.com/16f82c0b-7bdb-484e-a92f-1133a3b16350/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/pred-708/cover-n.jpg",PRED E708
+https://surrit.com/bc85ccf9-38fe-4db7-9bb2-945d3e09a617/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/pred-697/cover-n.jpg",PRED E697
+https://surrit.com/66a646f7-926e-42e2-9ef5-59c16563b294/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/pbd-468/cover-n.jpg",PBD E468
+https://surrit.com/ca6d7668-c794-427a-9346-9eb63ecc31c1/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/pred-687/cover-n.jpg",PRED E687
+https://surrit.com/711e4ebe-ff4d-4c72-abeb-bc3f1160d0a2/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/pred-696/cover-n.jpg",PRED E696
+https://surrit.com/28756f94-a98e-4e23-be97-8576b65b4d3f/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/pred-685/cover-n.jpg",PRED E685
+https://surrit.com/57f1d5eb-8dbd-44dc-aebd-0f00a34fc517/playlist.m3u8
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/pred-686/cover-n.jpg",PRED E686
+https://surrit.com/2c75953b-53db-4095-b453-5285a0ed45b4/playlist.m3u8
 #EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-375/cover-n.jpg",IPZZ E375
 https://surrit.com/7e68957b-9594-449d-8b4f-247c1fd8a606/playlist.m3u8
 #EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ipzz-442/cover-n.jpg",IPZZ E442
@@ -1401,7 +1436,7 @@ https://video-b.xhpingcdn.com/key=uoI-1I6zQcxeh5aw82QXyw,end=1716375600/data=49.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://video3.xhpingcdn.com/key=-Pvv0QLX7aaC-lQ7yM+ZUQ,end=1716375600/data=49.228.165.120-dvp/media=hls4/024/462/259/1080p.h264.mp4.m3u8
 
-#EXTINF:-1 tvg-type="Adult" tvg-logo="https://www.tidhee.com/wp-content/uploads/2024/05/PRED678.jpg",PRED-678 Miu Shiramine
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://www.tidhee.com/wp-content/uploads/2024/05/PRED678.jpg",PRED E678
 https://javmemory.com:8443/v/GbMqmDOGD9/video.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-type="Adult" tvg-logo="https://www.tidhee.com/wp-content/uploads/2024/05/MXGS1335.jpg",MXGS-1335 Sakura Kurumi
