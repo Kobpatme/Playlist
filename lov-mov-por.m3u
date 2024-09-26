@@ -2,36 +2,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
-#EXTINF:-1 tvg-type="Adult" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/09/Officer-Black-Belt-2024.jpg", Officer Black Belt (2024) เจ้าหน้าที่สายดำ
-https://master.streamhls.com/hlsr2/c5dae3a54436d5ce9041a211cb3c3e2d/master
-#EXTINF:-1 tvg-type="Adult" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/09/Abang-Adik-2023.jpg",Abang Adik (2023) ล่าฝันเมืองเดือด
-https://master.streamhls.com/hlsr2/a1fdee600f9409f239f13bed90c9f18e/master
-#EXTINF:-1 tvg-type="Adult" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Morrison.jpg",มอร์ริสัน (2024) Morrison
-https://master.streamhls.com/hlsr2/f92cac675e8c354208f27e5e20866e8c/master
-#EXTINF:-1 tvg-type="Adult" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Grave-Torture-2024.jpg",Grave Torture (2024) ทุบนรก ศพกระดิก
-https://master.streamhls.com/hlsr2/b8f30ab51eb87c295d895129474fda7f/master
-#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2021/06/6wxfWZxQcuv2QgxIQKj0eYTdKTv-200x300.jpg",The Unholy (2021) เทวาอาถรรพ์
-https://streamhls.com/view/96c90f7f-d3e8-5d5d-858a-4a9cd7644963.m3u8
-#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Uglies-2024.jpg",Uglies (2024) อั๊กลี่
-https://master.streamhls.com/hlsr2/2275f0e807d2062bc8d3681d9af4cea0/master
-#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Sector-36.jpg",Sector 36 (2024) เซกเตอร์ 36
-https://master.streamhls.com/hlsr2/ecc755ad007bfe385412bd3375cae12e/master
-#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Officer-Black-Belt-2024.jpg",Officer Black Belt (2024) เจ้าหน้าที่สายดำ
-https://master.streamhls.com/hlsr2/c5dae3a54436d5ce9041a211cb3c3e2d/master
-#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/02/Upgraded-2024.jpg",Upgraded (2024) รักฉบับอัปเกรด
-https://master.streamhls.com/hlsr2/a712c6a1df858300bd4681164d8c1172/master
-#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Concrete-Clouds.jpg",ภวังค์รัก (2013) Concrete Clouds
-https://streamhls.com/view/e2097640-c039-5236-adbd-2622948a6f84.m3u8
-#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Boxer-2024.jpg",Boxer (2024) นักชกสังเวียนดิบ
-https://master.streamhls.com/hlsr2/29be262aadbf084c16674ce770d15fac/master
-#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Outlaw-2024.jpg",Outlaw (2024) เจ้าแม่
-https://master.streamhls.com/hlsr2/9666283c4fa124eac87fc6a5f82bf194/master
-#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Formed-Police-Unit-FPU.jpg",Formed Police Unit (2024) FPU หน่วยพยัคฆ์พิทักษ์ข้ามโลก
-https://master.streamhls.com/hlsr2/139f6391b5abb69a19cce40a9f7abc2a/master
-#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/07/Despicable-Me-4.jpg",Despicable Me 4 (2024) มิสเตอร์แสบ ร้ายเกินพิกัด 4
-https://master.streamhls.com/hlsr2/aaf053b692e4c25d138ae169a30fa1ef/master
-#EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/08/Mission-Cross.jpg",Mission Cross (2024) ภารกิจลับพ่อบ้าน
-https://master.streamhls.com/hlsr2/ffc082c15842fc6b7b54b80bd3547b7e/master
+
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/The-Watchers.jpg",The Watchers (2024) เดอะ วอทเชอร์ส
 https://streamhls.com/view/bac5e4e1-5c1c-5ff3-b085-57d96027af1d.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/While-You-Were-Sleeping.jpg",While You Were Sleeping (2024) เธอหลับ เขาร้าย
@@ -178,47 +149,35 @@ https://streamhls.com/view/b1cae9e4-10f7-563e-8c1b-bd92d9f63228.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/02/Five-Blind-Dates-2024.png",FIVE BLIND DATES (2024) ห้าเดทวุ่น ลุ้นพบรัก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/bdb63942-e175-5398-8118-e5f15b41bda2.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/02/I-Love-You-Two-Thousand-2023.jpg",14 อีกครั้ง (2023) I LOVE YOU TWO THOUSAND
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/cb379d9d-f6e8-5c91-b1fa-6f9c3bc74984.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2020/10/Operation-Fortune-Ruse-De-Guerre-2023.jpg",OPERATION FORTUNE: RUSE DE GUERRE (2023) ปฏิบัติการระห่ำโคตรคนฟอร์จูน
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/f9c5061e-ccc6-5f30-8a93-55eebd2c2595.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/01/Postman.png",ไปรษณีย์ 4 โลก (2024) POSTMAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/c7b86825-cc6f-566a-a5d4-d138722309a2.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/01/Holy-Spider.jpg",HOLY SPIDER (2022) ฆาตกรรมเภณีเมืองศักดิ์สิทธิ์
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/e61cd72b-2f3b-5926-99a5-d36272b7fdb8.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/06/Under-Paris.jpg",UNDER PARIS (2024) มฤตยู ใต้ปารีส
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/afbc8051-6970-56d4-8d70-909e19146eb5.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2014/06/Constantine.jpg",CONSTANTINE คนพิฆาตผี
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/63d3cef9-4e16-5bee-9a9c-e110798ea0f0.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2022/08/Top-Gun-Maverick-v2.jpg",TOP GUN MAVERICK (2022) ท็อปกัน มาเวอริค
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://streamhls.com/view/7bf19b99-0bf6-57b0-824e-385567a80056.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/05/The-Missing-Girls-2023v3.jpg",The Missing Girls (2023) ค่ายเฮี้ยน โรงเรียนโหด
 https://streamhls.com/view/a393b358-84ea-582d-81f8-a17df63291b8.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/02/True-Spirit-2023-230x315-c-default.webp",True Spirit (2023) ทรูสปิริต
 https://streamhls.com/view/96771349-b572-514f-9e99-d54ceca76510.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/05/The-Water-Flows-to-the-Sea.jpg",THE WATER FLOWS TO THE SEA (2023) ฝนตกวันนั้น ผมแอบรักรุ่นพี่
 https://streamhls.com/view/f99fe682-fdb7-5f34-a492-06539e4ef5e6.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Goldfinger.png",THE GOLDFINGER (2023) โคตรพยัคฆ์ชน คนมือทอง
 https://streamhls.com/view/870d1269-ae60-5af3-a03f-09ed898eabc0.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/12/Triangle-of-Sadness.jpg",TRIANGLE OF SADNESS (2022) มันยอร์ชมาก
 https://streamhls.com/view/214c0eee-f150-5d27-a425-c6ddb3ffd4d0.m3u8
 
