@@ -2,6 +2,14 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/09/Officer-Black-Belt-2024.jpg", Officer Black Belt (2024) เจ้าหน้าที่สายดำ
+https://master.streamhls.com/hlsr2/c5dae3a54436d5ce9041a211cb3c3e2d/master
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/09/Abang-Adik-2023.jpg",Abang Adik (2023) ล่าฝันเมืองเดือด
+https://master.streamhls.com/hlsr2/a1fdee600f9409f239f13bed90c9f18e/master
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Morrison.jpg",มอร์ริสัน (2024) Morrison
+https://master.streamhls.com/hlsr2/f92cac675e8c354208f27e5e20866e8c/master
+#EXTINF:-1 tvg-type="Adult" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Grave-Torture-2024.jpg",Grave Torture (2024) ทุบนรก ศพกระดิก
+https://master.streamhls.com/hlsr2/b8f30ab51eb87c295d895129474fda7f/master
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2021/06/6wxfWZxQcuv2QgxIQKj0eYTdKTv-200x300.jpg",The Unholy (2021) เทวาอาถรรพ์
 https://streamhls.com/view/96c90f7f-d3e8-5d5d-858a-4a9cd7644963.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2024/09/Uglies-2024.jpg",Uglies (2024) อั๊กลี่
