@@ -659,12 +659,6 @@ https://surrit.com/8f3f461f-7317-4ad5-bd60-31fb9e1df64e/playlist.m3u8
 https://surrit.com/1396245e-cc09-48cc-860a-bab9224c666a/playlist.m3u8
 #EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/100119-001/cover-n.jpg",100119-001 Anri Tachibana
 https://surrit.com/f323e0d6-833b-4896-adb5-f1d34d2a0cbf/playlist.m3u8
-#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/honb-396/cover-n.jpg",HONB E396
-https://surrit.com/0ca0a7a1-6568-4dd8-9b0b-82f8fd73ce6f/playlist.m3u8
-#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/honb-305/cover-n.jpg",HONB E305
-https://surrit.com/5c9c2360-f711-4f68-93c3-f898f4f10de5/playlist.m3u8
-#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/honb-304/cover-n.jpg",HONB E304
-https://surrit.com/84f8f2e8-b966-4b55-b0fc-c5f28fe8cc71/playlist.m3u8
 #EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ebwh-134/cover-n.jpg",EBWH-134
 https://surrit.com/549b5bc4-c0fc-49f1-a861-cb8ba5868e14/playlist.m3u8
 #EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/pppe-244/cover-n.jpg",PPPE-244
@@ -942,9 +936,6 @@ https://znnmpq-stroon.mushroomtrack.com/hls/ZRyaJeBOd8vGhCnm_1yapw/1717436253/40
 #EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/40000/40499/preview.jpg",FOCS-186
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://znnmpq-stroon.mushroomtrack.com/hls/92lQFkFOc59wQQO84xQiYA/1717435660/40000/40499/40499.m3u8
-#EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/35000/35540/preview.jpg",HONB-314
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://zippey-gogin.mushroomtrack.com/hls/EqCsNsu91YLZrYJ5Fo2Xmw/1717436268/35000/35540/35540.m3u8
 #EXTINF:-1 tvg-type="Adult" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/35000/35972/preview.jpg",ABF-028
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://zikur-oroa.mushroomtrack.com/hls/uVYZ1iqqlmGtRIy8SACtPg/1717435830/35000/35972/35972.m3u8
@@ -1180,9 +1171,6 @@ https://surrit.com/c84629d2-6f8f-4c35-87c1-aa8b33b3f36e/playlist.m3u8
 #EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/ssk-068/cover-n.jpg",SSK-068
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://surrit.com/4ab11d97-ea5a-45b5-a2f4-929807aa35a7/playlist.m3u8
-#EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/honb-037/cover-n.jpg",HONB-037
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://surrit.com/0fdd4ff7-a93c-4349-a8a7-367d9b71d046/playlist.m3u8
 #EXTINF:-1 tvg-type="Adult" tvg-logo="https://fivetiu.com/simm-463/cover-n.jpg",SIMM-463
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://surrit.com/2a70b6c0-fb06-4e73-8f90-52259796f452/playlist.m3u8
