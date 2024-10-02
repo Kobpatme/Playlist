@@ -2,7 +2,52 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
-
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/Strange_Darling_%E0%B8%A3%E0%B8%B1%E0%B8%81_%E0%B8%A5%E0%B8%A7%E0%B8%87_%E0%B8%86%E0%B9%88%E0%B8%B2_(2024).webp",Strange Darling รัก ลวง ฆ่า (2024)
+https://live.lnwplayer.com/hls/08ba8343-d44c-4d72-83fa-745eb93236ff/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/Kalki_2898-AD_(2024)_%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%81%E0%B8%B4_2898-%E0%B9%80%E0%B8%AD%E0%B8%94%E0%B8%B5.webp",Kalki 2898-AD (2024) กัลกิ 2898-เอดี
+https://live.lnwplayer.com/hls/b6a1f178-6e64-4341-96d2-27ac2524f90b/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/The_Crow_%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%9E%E0%B8%8D%E0%B8%B2%E0%B8%A2%E0%B8%A1_(2024).webp",The Crow อีกาพญายม (2024)
+https://live.lnwplayer.com/hls/5f03131e-e0c5-4c8c-9685-4151f1bfc932/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/Blink_Twice_%E0%B8%9A%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%81%E0%B9%8C_%E0%B8%97%E0%B9%84%E0%B8%A7%E0%B8%8B%E0%B9%8C_%E0%B8%8B%E0%B8%B4%E0%B8%81%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2_(2024).webp",Blink Twice บลิงก์ ทไวซ์ ซิกอันตราย (2024)
+https://live.lnwplayer.com/hls/62f28f87-f4ac-45d9-80be-4af4bd1b581a/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/Oddity_(2024)_%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%88%E0%B8%B4%E0%B8%95.webp",Oddity (2024) หุ่นเชื่อมจิต
+https://live.lnwplayer.com/hls/07c3f3f2-a4e4-4700-87af-e6bffb85af95/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/The_Union_(2024)_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A2%E0%B8%B9%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99.webp",The Union (2024) เดอะ ยูเนี่ยน
+https://live.lnwplayer.com/hls/16374d83-448b-4e65-885d-f58ce4f5e42e/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/Interstate_(2024).webp",Interstate (2024)
+https://live.lnwplayer.com/hls/f6179dcb-cca2-4cfe-a2af-0a40a46e1a14/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/Us,_Our_Pets_and_the_War_(2024).webp",Us, Our Pets and the War (2024)
+https://live.lnwplayer.com/hls/4196927d-0e48-4249-899e-409515195f00/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/Snow_White_and_the_Seven_Samurai_(2024).webp",Snow White and the Seven Samurai (2024)
+https://live.lnwplayer.com/hls/e4ed7a0b-1ba2-4709-a760-d91529c5c95e/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/Dancing-Village-The-Curse-Begins-2024-Poster.webp",Dancing Village: The Curse Begins (2024)
+https://live.lnwplayer.com/hls/a9f9cd32-a485-4858-a367-c6023a89fb8c/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/Rendel_Cycle_of_Revenge_(2024).webp",Rendel: Cycle of Revenge (2024)
+https://live.lnwplayer.com/hls/e24a25df-b9b6-447e-b105-4866ca201f04/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/Despicable_Me_4_(2024)_%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94_4.webp",Despicable Me 4 (2024) มิสเตอร์แสบ ร้ายเกินพิกัด 4
+https://live.lnwplayer.com/hls/97fb84a8-7695-4475-92f0-48df42cc3a74/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/Pattaya_Heat_(2024)_%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B9%88%E0%B8%B2.webp",Pattaya Heat (2024) ปิดเมืองล่า
+https://live.lnwplayer.com/hls/99cd8f42-ccc0-41c9-baf9-8bb2404c11d2/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/The_Watchers_(2024)_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A7%E0%B8%AD%E0%B8%97%E0%B9%80%E0%B8%8A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA.webp",The Watchers (2024) เดอะวอทเชอร์ส
+https://live.lnwplayer.com/hls/0aaab4ad-bf22-4152-8eb0-c78f7670d521/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/Kingdom_of_the_Planet_of_the_Apes_(2024)_%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%A0%E0%B8%9E%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3.webp",Kingdom of the Planet of the Apes (2024) อาณาจักรแห่งพิภพวานร
+https://live.lnwplayer.com/hls/897603e2-1d12-4d20-abb6-56223b9e44a5/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/The_Garfield_Movie_(2024)_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9F%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B9%8C_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88.webp",The Garfield Movie (2024) เดอะ การ์ฟิลด์ มูฟวี่
+https://live.lnwplayer.com/hls/75d03f86-abfd-4fd3-a422-382f1b63c5b5/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/Godzilla-x-Kong-The-New-Empire-2024-%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%94%E0%B8%8B%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B9%88%E0%B8%B2-%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B0-%E0%B8%84%E0%B8%AD%E0%B8%87-2-%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-187x269.jpg",Godzilla x Kong The New Empire (2024) ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่
+https://live.lnwplayer.com/hls/f03d4445-ebd3-433c-8bf0-37a0fdfebc0c/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/Eagle_(2024).webp",Eagle (2024)
+https://live.lnwplayer.com/hls/2a45a6c5-23a5-4e9f-877f-79181fbd5a9e/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/A_Dog%E2%80%99s_Way_Home_(2019)_%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%84%E0%B8%A1%E0%B8%A5%E0%B9%8C.webp",A Dog’s Way Home (2019) เพื่อนรักผจญภัยสี่ร้อยไมล์
+https://live.lnwplayer.com/hls/93d9c14b-b949-45c1-9ddc-5b9c7a8fb0b6/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/Blacklight_(2022)_%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3_%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81.webp",Blacklight (2022) โคตรระห่ำ ล้างบางนรก
+https://live.lnwplayer.com/hls/f70dbda3-1639-4e0c-b2f2-e12b73772a4e/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/In_the_Land_of_Saints_and_Sinners_(2023).webp",In the Land of Saints and Sinners (2023)
+https://live.lnwplayer.com/hls/4543c35b-d2ef-4a8a-af61-79456677b521/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/The_Beekeeper_(2024)_%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD.webp",The Beekeeper (2024) นรกเรียกพ่อ
+https://live.lnwplayer.com/hls/2c818e90488904efe29a04a0acf137e2/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/Tale_Of_Phantom_A_Love_Story_(2024)_%E0%B8%8A%E0%B8%B0%E0%B8%95%E0%B8%B2%E0%B8%99%E0%B8%B3%E0%B8%9E%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81.webp",Tale Of Phantom A Love Story (2024) ชะตานำพารัก
+https://live.lnwplayer.com/hls/e56671d3e8a6ac76fa518f050fae77d3/index.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://037hd.tv/wp-content/uploads/2024/09/Bangkok-Breaking-Heaven-and-Hell-2024-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%94%E0%B8%B2.webp",Bangkok Breaking Heaven and Hell (2024) ฝ่านรกเมืองเทวดา
 https://live.lnwplayer.com/hls/fbaa2eb2-4eaf-4ba2-b8f0-0fdd800977a3/index.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://037hd.tv/wp-content/uploads/2024/02/Land-of-Bad-2024.webp",Land of Bad (2024)
