@@ -2,6 +2,11 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
+#EXTINF:-1 type="movie" tvg-logo="https://hd-2u.com/wp-content/uploads/2024/05/Bad-Boys-Ride-or-Die-2024-205x305.webp",Bad Boys: Ride or Die (2024) คู่หูขวางนรก: ลุยต่อขอไว้ลาย
+https://m4-txt-2.xdomovie247.com/playlist2/detail/c393883b6wB2e/1080/hls/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://hd-2u.com/wp-content/uploads/2024/10/Flow-2024-1-205x305.webp",Flow (2024) โฟล
+https://m4-txt-2.xdomovie247.com/playlist2/detail/207b0539xuDt7/720/hls/index.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/Strange_Darling_%E0%B8%A3%E0%B8%B1%E0%B8%81_%E0%B8%A5%E0%B8%A7%E0%B8%87_%E0%B8%86%E0%B9%88%E0%B8%B2_(2024).webp",Strange Darling รัก ลวง ฆ่า (2024)
 https://live.lnwplayer.com/hls/08ba8343-d44c-4d72-83fa-745eb93236ff/index.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://fwiptv.tv/images/movie/Kalki_2898-AD_(2024)_%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%81%E0%B8%B4_2898-%E0%B9%80%E0%B8%AD%E0%B8%94%E0%B8%B5.webp",Kalki 2898-AD (2024) กัลกิ 2898-เอดี
