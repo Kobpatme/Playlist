@@ -2,7 +2,14 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
-
+#EXTINF:-1 type="movie" tvg-logo="https://hd-2u.com/wp-content/uploads/2024/10/The-Bad-Guys-Haunted-Heist-2024-205x305.webp",The Bad Guys: Haunted Heist (2024) วายร้ายพันธุ์ดี: ปล้นป่วนฮาโลวีน
+https://m5-txt-2.xdomovie247.com/playlist2/detail/e5adae8e1rV3E/1080/hls/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://hd-2u.com/wp-content/uploads/2024/10/Trouble-2024.webp",Trouble (2024) ผิดที่ ผิดทาง
+https://m5-txt-2.xdomovie247.com/playlist2/detail/a8e0339bDvqlc/1080/hls/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://hd-2u.com/wp-content/uploads/2024/10/The-Shallows-2016.webp",The Shallows (2016) นรกน้ำตื้น
+https://m2-txt-2.xdomovie247.com/playlist2/detail/f06c3242/720/hls/index.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://hd-2u.com/wp-content/uploads/2024/06/The-Roundup-Punishment-2024.webp",The Roundup: Punishment (2024) บู๊ระห่ำล่าล้างนรก นรกลงทัณฑ์
+https://m4-txt-2.xdomovie247.com/playlist2/detail/d29a4d08/1080/hls/index.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://hd-2u.com/wp-content/uploads/2023/05/The-Little-Mermaid-2023-%E0%B9%80%E0%B8%87%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2.webp",The Little Mermaid (2023) เงือกน้อยผจญภัย
 https://m2-txt-2.xdomovie247.com/playlist2/detail/eaa7672b/720/hls/index.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://hd-2u.com/wp-content/uploads/2024/06/Trigger-Warning-2024.webp",Trigger Warning (2024) ลั่นไกเตือน
