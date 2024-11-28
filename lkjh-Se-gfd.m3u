@@ -1,6 +1,5 @@
 #EXTM3U 					
 
-
 ===== Good Doctor (2024) หมอใจพิเศษ ======
 #EXTINF:-1 type="series" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/Good-Doctor-2024-%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B9%83%E0%B8%88%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9-300x450.jpg" group-title="series",Good Doctor (2024) หมอใจพิเศษ E01
 https://main.24playerhd.com/m3u8/b6c21640badf324b6273dc82/b6c21640badf324b6273dc82438.m3u8
@@ -50,7 +49,8 @@ https://main.24playerhd.com/newplaylist/ccc68cce62b15741c3611afe/ccc68cce62b1574
 https://main.24playerhd.com/m3u8/9e4243f93b8cf1bc8123ed07/9e4243f93b8cf1bc8123ed07438.m3u8
 #EXTINF:-1 type="series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2024/11/The-Empress-of-Ayodhaya.jpg" group-title="series",The Empress of Ayodhaya (2024) แม่หยัว E09
 https://main.24playerhd.com/m3u8/07d0176f218484a6571fd929/07d0176f218484a6571fd929438.m3u8
-
+#EXTINF:-1 type="series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2024/11/The-Empress-of-Ayodhaya.jpg" group-title="series",The Empress of Ayodhaya (2024) แม่หยัว E10
+https://main.24playerhd.com/m3u8/0e7bea50147d200d846cbebe/0e7bea50147d200d846cbebe438.m3u8
 
 ===== Gangnam B-Side (2024) ======
 #EXTINF:-1 type="series" tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2024/11/Gangnam-B-Side-2024.jpg" group-title="series",Gangnam B-Side (2024) E01
