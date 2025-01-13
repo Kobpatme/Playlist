@@ -2,6 +2,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 
 ======== All Movies ======
+
+#EXTINF:-1 type="movie" tvg-logo="https://hd-2u.com/wp-content/uploads/2025/01/The-Paraside-of-Thorns-2024-205x305.webp",วิมานหนาม (2024) The Paradise of Thorns
+https://text-lb.xmoviedo24.com/playlist2/598c90e8k5l4c/master.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://hd-2u.com/wp-content/uploads/2025/01/Uranus-2324-2024-2.webp",ยูเรนัส 2324 (2024) Uranus 2324
 https://text-lb.xmoviedo24.com/playlist2/4c8274b35rlCO/master.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://hd-2u.com/wp-content/uploads/2025/01/The-Holy-Man-Comeback-2024-205x305.webp",The Holy Man Comeback (2024) หลวงพี่เท่ง คัมแบ็ก
